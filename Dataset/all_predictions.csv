@@ -1,0 +1,1161 @@
+Text,Model,Actual,Predicted,Confidence,Error Type
+"Cop Accused Of BrutalityA 9th Time
+
+by Melinda Tuhus & Thomas MacMillan | Jan 7, 2011 3:02 pm
+
+(46)",BERT,human,human,0.655,Correct
+"Cop Accused Of BrutalityA 9th Time
+
+by Melinda Tuhus & Thomas MacMillan | Jan 7, 2011 3:02 pm
+
+(46)",ROBERTA,human,ai,0.547,False Negative
+"Cop Accused Of BrutalityA 9th Time
+
+by Melinda Tuhus & Thomas MacMillan | Jan 7, 2011 3:02 pm
+
+(46)",DEBERTA,human,ai,0.5,False Negative
+"Cop Accused Of BrutalityA 9th Time
+
+by Melinda Tuhus & Thomas MacMillan | Jan 7, 2011 3:02 pm
+
+(46)",ELECTRA,human,ai,0.533,False Negative
+"Cop Accused Of BrutalityA 9th Time
+
+by Melinda Tuhus & Thomas MacMillan | Jan 7, 2011 3:02 pm
+
+(46)",DISTILBERT,human,human,0.542,Correct
+"I last visited McDowell County, West Virginia, over 40 years ago. Even then, I was already an outsid",BERT,human,human,0.735,Correct
+"I last visited McDowell County, West Virginia, over 40 years ago. Even then, I was already an outsid",ROBERTA,human,ai,0.549,False Negative
+"I last visited McDowell County, West Virginia, over 40 years ago. Even then, I was already an outsid",DEBERTA,human,human,0.501,Correct
+"I last visited McDowell County, West Virginia, over 40 years ago. Even then, I was already an outsid",ELECTRA,human,ai,0.533,False Negative
+"I last visited McDowell County, West Virginia, over 40 years ago. Even then, I was already an outsid",DISTILBERT,human,human,0.56,Correct
+"In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described",BERT,human,human,0.693,Correct
+"In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described",ROBERTA,human,ai,0.54,False Negative
+"In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described",DEBERTA,human,human,0.501,Correct
+"In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described",ELECTRA,human,ai,0.538,False Negative
+"In grammar, a future tense (abbreviated FUT) is a verb form that generally marks the event described",DISTILBERT,human,human,0.547,Correct
+"Do you remember the girl that made you feel the way that no one else could? The energy, excitement a",BERT,human,human,0.744,Correct
+"Do you remember the girl that made you feel the way that no one else could? The energy, excitement a",ROBERTA,human,ai,0.54,False Negative
+"Do you remember the girl that made you feel the way that no one else could? The energy, excitement a",DEBERTA,human,ai,0.5,False Negative
+"Do you remember the girl that made you feel the way that no one else could? The energy, excitement a",ELECTRA,human,ai,0.537,False Negative
+"Do you remember the girl that made you feel the way that no one else could? The energy, excitement a",DISTILBERT,human,human,0.555,Correct
+"The OS and the disk
+
+1: The client sends a write command to the database (data is in client's memory",BERT,human,human,0.693,Correct
+"The OS and the disk
+
+1: The client sends a write command to the database (data is in client's memory",ROBERTA,human,ai,0.541,False Negative
+"The OS and the disk
+
+1: The client sends a write command to the database (data is in client's memory",DEBERTA,human,ai,0.5,False Negative
+"The OS and the disk
+
+1: The client sends a write command to the database (data is in client's memory",ELECTRA,human,ai,0.543,False Negative
+"The OS and the disk
+
+1: The client sends a write command to the database (data is in client's memory",DISTILBERT,human,human,0.543,Correct
+"Want to start a startup? Get funded by Y Combinator.
+
+October 2009
+
+(This essay is derived from a ta",BERT,human,human,0.738,Correct
+"Want to start a startup? Get funded by Y Combinator.
+
+October 2009
+
+(This essay is derived from a ta",ROBERTA,human,ai,0.542,False Negative
+"Want to start a startup? Get funded by Y Combinator.
+
+October 2009
+
+(This essay is derived from a ta",DEBERTA,human,human,0.5,Correct
+"Want to start a startup? Get funded by Y Combinator.
+
+October 2009
+
+(This essay is derived from a ta",ELECTRA,human,ai,0.554,False Negative
+"Want to start a startup? Get funded by Y Combinator.
+
+October 2009
+
+(This essay is derived from a ta",DISTILBERT,human,human,0.544,Correct
+"http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan
+
+Rabindranath Tagore ""A mind all logic is lik",BERT,human,human,0.732,Correct
+"http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan
+
+Rabindranath Tagore ""A mind all logic is lik",ROBERTA,human,ai,0.536,False Negative
+"http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan
+
+Rabindranath Tagore ""A mind all logic is lik",DEBERTA,human,ai,0.5,False Negative
+"http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan
+
+Rabindranath Tagore ""A mind all logic is lik",ELECTRA,human,ai,0.547,False Negative
+"http://tvtropes.org/pmwiki/pmwiki.php/Main/StrawVulcan
+
+Rabindranath Tagore ""A mind all logic is lik",DISTILBERT,human,human,0.548,Correct
+"by
+
+Ivanpah Solar Plant. Photo: Kollibri terre Sonnenblume.
+
+The deserts of the American Southwest h",BERT,human,human,0.769,Correct
+"by
+
+Ivanpah Solar Plant. Photo: Kollibri terre Sonnenblume.
+
+The deserts of the American Southwest h",ROBERTA,human,ai,0.542,False Negative
+"by
+
+Ivanpah Solar Plant. Photo: Kollibri terre Sonnenblume.
+
+The deserts of the American Southwest h",DEBERTA,human,ai,0.5,False Negative
+"by
+
+Ivanpah Solar Plant. Photo: Kollibri terre Sonnenblume.
+
+The deserts of the American Southwest h",ELECTRA,human,ai,0.535,False Negative
+"by
+
+Ivanpah Solar Plant. Photo: Kollibri terre Sonnenblume.
+
+The deserts of the American Southwest h",DISTILBERT,human,human,0.553,Correct
+"I like maxims that dont encourage behavior modification.
+
+Reality continues to ruin my life.
+
+Weeke",BERT,human,human,0.711,Correct
+"I like maxims that dont encourage behavior modification.
+
+Reality continues to ruin my life.
+
+Weeke",ROBERTA,human,ai,0.54,False Negative
+"I like maxims that dont encourage behavior modification.
+
+Reality continues to ruin my life.
+
+Weeke",DEBERTA,human,human,0.5,Correct
+"I like maxims that dont encourage behavior modification.
+
+Reality continues to ruin my life.
+
+Weeke",ELECTRA,human,ai,0.54,False Negative
+"I like maxims that dont encourage behavior modification.
+
+Reality continues to ruin my life.
+
+Weeke",DISTILBERT,human,human,0.556,Correct
+Most life-long drug addiction begins during adolescence. Important structural and functional changes,BERT,human,human,0.696,Correct
+Most life-long drug addiction begins during adolescence. Important structural and functional changes,ROBERTA,human,ai,0.544,False Negative
+Most life-long drug addiction begins during adolescence. Important structural and functional changes,DEBERTA,human,human,0.501,Correct
+Most life-long drug addiction begins during adolescence. Important structural and functional changes,ELECTRA,human,ai,0.541,False Negative
+Most life-long drug addiction begins during adolescence. Important structural and functional changes,DISTILBERT,human,human,0.546,Correct
+"Pin 515 658 Shares
+
+Trying to sort out GoPro editing software? You're in the right place! While GoPr",BERT,human,human,0.73,Correct
+"Pin 515 658 Shares
+
+Trying to sort out GoPro editing software? You're in the right place! While GoPr",ROBERTA,human,ai,0.545,False Negative
+"Pin 515 658 Shares
+
+Trying to sort out GoPro editing software? You're in the right place! While GoPr",DEBERTA,human,ai,0.501,False Negative
+"Pin 515 658 Shares
+
+Trying to sort out GoPro editing software? You're in the right place! While GoPr",ELECTRA,human,ai,0.551,False Negative
+"Pin 515 658 Shares
+
+Trying to sort out GoPro editing software? You're in the right place! While GoPr",DISTILBERT,human,human,0.547,Correct
+"Introduction by Neal Gorenflo, Publisher of Shareable
+
+One of the legacies of socialist Red Vienna",BERT,human,human,0.74,Correct
+"Introduction by Neal Gorenflo, Publisher of Shareable
+
+One of the legacies of socialist Red Vienna",ROBERTA,human,ai,0.542,False Negative
+"Introduction by Neal Gorenflo, Publisher of Shareable
+
+One of the legacies of socialist Red Vienna",DEBERTA,human,human,0.5,Correct
+"Introduction by Neal Gorenflo, Publisher of Shareable
+
+One of the legacies of socialist Red Vienna",ELECTRA,human,ai,0.542,False Negative
+"Introduction by Neal Gorenflo, Publisher of Shareable
+
+One of the legacies of socialist Red Vienna",DISTILBERT,human,human,0.555,Correct
+"Right, Tatum, Julez, and I had an interesting little convo last night involving Harry Potter ... it'",BERT,human,human,0.682,Correct
+"Right, Tatum, Julez, and I had an interesting little convo last night involving Harry Potter ... it'",ROBERTA,human,ai,0.541,False Negative
+"Right, Tatum, Julez, and I had an interesting little convo last night involving Harry Potter ... it'",DEBERTA,human,ai,0.501,False Negative
+"Right, Tatum, Julez, and I had an interesting little convo last night involving Harry Potter ... it'",ELECTRA,human,ai,0.531,False Negative
+"Right, Tatum, Julez, and I had an interesting little convo last night involving Harry Potter ... it'",DISTILBERT,human,human,0.545,Correct
+"Editor's note: This story was updated on November 22, 2016.
+
+In 2011, the Arab Spring changed the re",BERT,human,human,0.744,Correct
+"Editor's note: This story was updated on November 22, 2016.
+
+In 2011, the Arab Spring changed the re",ROBERTA,human,ai,0.54,False Negative
+"Editor's note: This story was updated on November 22, 2016.
+
+In 2011, the Arab Spring changed the re",DEBERTA,human,human,0.501,Correct
+"Editor's note: This story was updated on November 22, 2016.
+
+In 2011, the Arab Spring changed the re",ELECTRA,human,ai,0.535,False Negative
+"Editor's note: This story was updated on November 22, 2016.
+
+In 2011, the Arab Spring changed the re",DISTILBERT,human,human,0.55,Correct
+The Toledo Auto-Lite strike was a strike by a federal labor union of the American Federation of Labo,BERT,human,human,0.744,Correct
+The Toledo Auto-Lite strike was a strike by a federal labor union of the American Federation of Labo,ROBERTA,human,ai,0.543,False Negative
+The Toledo Auto-Lite strike was a strike by a federal labor union of the American Federation of Labo,DEBERTA,human,human,0.501,Correct
+The Toledo Auto-Lite strike was a strike by a federal labor union of the American Federation of Labo,ELECTRA,human,ai,0.543,False Negative
+The Toledo Auto-Lite strike was a strike by a federal labor union of the American Federation of Labo,DISTILBERT,human,human,0.537,Correct
+"Alpinism is the art of freedom, wrote Voytek Kurtyka, the great Polish alpinist who redefined the ",BERT,human,human,0.72,Correct
+"Alpinism is the art of freedom, wrote Voytek Kurtyka, the great Polish alpinist who redefined the ",ROBERTA,human,ai,0.541,False Negative
+"Alpinism is the art of freedom, wrote Voytek Kurtyka, the great Polish alpinist who redefined the ",DEBERTA,human,human,0.5,Correct
+"Alpinism is the art of freedom, wrote Voytek Kurtyka, the great Polish alpinist who redefined the ",ELECTRA,human,ai,0.538,False Negative
+"Alpinism is the art of freedom, wrote Voytek Kurtyka, the great Polish alpinist who redefined the ",DISTILBERT,human,human,0.541,Correct
+"What a week for prospects! Dansby Swanson was promoted by Atlanta, Yulieski Gurriel was promoted by ",BERT,human,human,0.687,Correct
+"What a week for prospects! Dansby Swanson was promoted by Atlanta, Yulieski Gurriel was promoted by ",ROBERTA,human,ai,0.543,False Negative
+"What a week for prospects! Dansby Swanson was promoted by Atlanta, Yulieski Gurriel was promoted by ",DEBERTA,human,ai,0.501,False Negative
+"What a week for prospects! Dansby Swanson was promoted by Atlanta, Yulieski Gurriel was promoted by ",ELECTRA,human,ai,0.544,False Negative
+"What a week for prospects! Dansby Swanson was promoted by Atlanta, Yulieski Gurriel was promoted by ",DISTILBERT,human,human,0.541,Correct
+A/RES/43/58 71st plenary meeting 6 December 1988 Report of the Special Committee to Investigate Isra,BERT,human,human,0.717,Correct
+A/RES/43/58 71st plenary meeting 6 December 1988 Report of the Special Committee to Investigate Isra,ROBERTA,human,ai,0.539,False Negative
+A/RES/43/58 71st plenary meeting 6 December 1988 Report of the Special Committee to Investigate Isra,DEBERTA,human,ai,0.501,False Negative
+A/RES/43/58 71st plenary meeting 6 December 1988 Report of the Special Committee to Investigate Isra,ELECTRA,human,ai,0.527,False Negative
+A/RES/43/58 71st plenary meeting 6 December 1988 Report of the Special Committee to Investigate Isra,DISTILBERT,human,human,0.56,Correct
+"This ones important, so read it and grok. You either know it already, great, or its news and you m",BERT,human,human,0.712,Correct
+"This ones important, so read it and grok. You either know it already, great, or its news and you m",ROBERTA,human,ai,0.541,False Negative
+"This ones important, so read it and grok. You either know it already, great, or its news and you m",DEBERTA,human,human,0.501,Correct
+"This ones important, so read it and grok. You either know it already, great, or its news and you m",ELECTRA,human,ai,0.54,False Negative
+"This ones important, so read it and grok. You either know it already, great, or its news and you m",DISTILBERT,human,human,0.555,Correct
+He is also forthright on worldly matters that he deems important. He dedicated the Fourth Symphony l,BERT,human,human,0.709,Correct
+He is also forthright on worldly matters that he deems important. He dedicated the Fourth Symphony l,ROBERTA,human,ai,0.541,False Negative
+He is also forthright on worldly matters that he deems important. He dedicated the Fourth Symphony l,DEBERTA,human,human,0.501,Correct
+He is also forthright on worldly matters that he deems important. He dedicated the Fourth Symphony l,ELECTRA,human,ai,0.532,False Negative
+He is also forthright on worldly matters that he deems important. He dedicated the Fourth Symphony l,DISTILBERT,human,human,0.556,Correct
+"Pushing Swift to the Server
+
+Chris Bailey at Swift Summit San Francisco, 2016
+
+Transcript
+
+Chris : O",BERT,human,human,0.716,Correct
+"Pushing Swift to the Server
+
+Chris Bailey at Swift Summit San Francisco, 2016
+
+Transcript
+
+Chris : O",ROBERTA,human,ai,0.542,False Negative
+"Pushing Swift to the Server
+
+Chris Bailey at Swift Summit San Francisco, 2016
+
+Transcript
+
+Chris : O",DEBERTA,human,ai,0.501,False Negative
+"Pushing Swift to the Server
+
+Chris Bailey at Swift Summit San Francisco, 2016
+
+Transcript
+
+Chris : O",ELECTRA,human,ai,0.538,False Negative
+"Pushing Swift to the Server
+
+Chris Bailey at Swift Summit San Francisco, 2016
+
+Transcript
+
+Chris : O",DISTILBERT,human,human,0.551,Correct
+"lachesis
+
+Offline
+
+Activity: 210
+
+Merit: 100
+
+Full MemberActivity: 210Merit: 100 Re: Flood attack 0.",BERT,human,human,0.723,Correct
+"lachesis
+
+Offline
+
+Activity: 210
+
+Merit: 100
+
+Full MemberActivity: 210Merit: 100 Re: Flood attack 0.",ROBERTA,human,ai,0.546,False Negative
+"lachesis
+
+Offline
+
+Activity: 210
+
+Merit: 100
+
+Full MemberActivity: 210Merit: 100 Re: Flood attack 0.",DEBERTA,human,ai,0.502,False Negative
+"lachesis
+
+Offline
+
+Activity: 210
+
+Merit: 100
+
+Full MemberActivity: 210Merit: 100 Re: Flood attack 0.",ELECTRA,human,ai,0.543,False Negative
+"lachesis
+
+Offline
+
+Activity: 210
+
+Merit: 100
+
+Full MemberActivity: 210Merit: 100 Re: Flood attack 0.",DISTILBERT,human,human,0.548,Correct
+"Walter Andrew Brennan (July 25, 1894  September 21, 1974) was an American actor.[1] He won the Acad",BERT,human,human,0.731,Correct
+"Walter Andrew Brennan (July 25, 1894  September 21, 1974) was an American actor.[1] He won the Acad",ROBERTA,human,ai,0.545,False Negative
+"Walter Andrew Brennan (July 25, 1894  September 21, 1974) was an American actor.[1] He won the Acad",DEBERTA,human,human,0.501,Correct
+"Walter Andrew Brennan (July 25, 1894  September 21, 1974) was an American actor.[1] He won the Acad",ELECTRA,human,ai,0.539,False Negative
+"Walter Andrew Brennan (July 25, 1894  September 21, 1974) was an American actor.[1] He won the Acad",DISTILBERT,human,human,0.534,Correct
+"The late-career arc of Steve Bannon, Washington insider, was by any measure a supreme anticlimax. Ba",BERT,human,human,0.714,Correct
+"The late-career arc of Steve Bannon, Washington insider, was by any measure a supreme anticlimax. Ba",ROBERTA,human,ai,0.54,False Negative
+"The late-career arc of Steve Bannon, Washington insider, was by any measure a supreme anticlimax. Ba",DEBERTA,human,human,0.5,Correct
+"The late-career arc of Steve Bannon, Washington insider, was by any measure a supreme anticlimax. Ba",ELECTRA,human,ai,0.545,False Negative
+"The late-career arc of Steve Bannon, Washington insider, was by any measure a supreme anticlimax. Ba",DISTILBERT,human,human,0.548,Correct
+"During World War I and World War II, the Swiss Confederation maintained armed neutrality. Consequent",BERT,human,human,0.729,Correct
+"During World War I and World War II, the Swiss Confederation maintained armed neutrality. Consequent",ROBERTA,human,ai,0.545,False Negative
+"During World War I and World War II, the Swiss Confederation maintained armed neutrality. Consequent",DEBERTA,human,human,0.501,Correct
+"During World War I and World War II, the Swiss Confederation maintained armed neutrality. Consequent",ELECTRA,human,ai,0.54,False Negative
+"During World War I and World War II, the Swiss Confederation maintained armed neutrality. Consequent",DISTILBERT,human,human,0.544,Correct
+Dozens of new students crowded into a lobby of the University of Delaware's student center at the st,BERT,human,human,0.716,Correct
+Dozens of new students crowded into a lobby of the University of Delaware's student center at the st,ROBERTA,human,ai,0.542,False Negative
+Dozens of new students crowded into a lobby of the University of Delaware's student center at the st,DEBERTA,human,human,0.5,Correct
+Dozens of new students crowded into a lobby of the University of Delaware's student center at the st,ELECTRA,human,ai,0.528,False Negative
+Dozens of new students crowded into a lobby of the University of Delaware's student center at the st,DISTILBERT,human,human,0.544,Correct
+Its the most explosive question of the 2016 presidential campaign: Could Hillary Clinton get indict,BERT,human,human,0.714,Correct
+Its the most explosive question of the 2016 presidential campaign: Could Hillary Clinton get indict,ROBERTA,human,ai,0.543,False Negative
+Its the most explosive question of the 2016 presidential campaign: Could Hillary Clinton get indict,DEBERTA,human,ai,0.5,False Negative
+Its the most explosive question of the 2016 presidential campaign: Could Hillary Clinton get indict,ELECTRA,human,ai,0.53,False Negative
+Its the most explosive question of the 2016 presidential campaign: Could Hillary Clinton get indict,DISTILBERT,human,human,0.548,Correct
+Disgruntled Defense of the Ancients 2 players even made an incarnation of their frustration with the,BERT,human,human,0.732,Correct
+Disgruntled Defense of the Ancients 2 players even made an incarnation of their frustration with the,ROBERTA,human,ai,0.536,False Negative
+Disgruntled Defense of the Ancients 2 players even made an incarnation of their frustration with the,DEBERTA,human,ai,0.5,False Negative
+Disgruntled Defense of the Ancients 2 players even made an incarnation of their frustration with the,ELECTRA,human,ai,0.533,False Negative
+Disgruntled Defense of the Ancients 2 players even made an incarnation of their frustration with the,DISTILBERT,human,human,0.547,Correct
+There has been no spectacle in the history of televised sport as compelling and atrocious as the nig,BERT,human,human,0.706,Correct
+There has been no spectacle in the history of televised sport as compelling and atrocious as the nig,ROBERTA,human,ai,0.542,False Negative
+There has been no spectacle in the history of televised sport as compelling and atrocious as the nig,DEBERTA,human,human,0.501,Correct
+There has been no spectacle in the history of televised sport as compelling and atrocious as the nig,ELECTRA,human,ai,0.535,False Negative
+There has been no spectacle in the history of televised sport as compelling and atrocious as the nig,DISTILBERT,human,human,0.535,Correct
+"Blood On the Tracks
+
+Photography by Marley Kate | Styling by Grant Woolhead
+
+In a pop world dominate",BERT,human,human,0.719,Correct
+"Blood On the Tracks
+
+Photography by Marley Kate | Styling by Grant Woolhead
+
+In a pop world dominate",ROBERTA,human,ai,0.544,False Negative
+"Blood On the Tracks
+
+Photography by Marley Kate | Styling by Grant Woolhead
+
+In a pop world dominate",DEBERTA,human,human,0.5,Correct
+"Blood On the Tracks
+
+Photography by Marley Kate | Styling by Grant Woolhead
+
+In a pop world dominate",ELECTRA,human,ai,0.535,False Negative
+"Blood On the Tracks
+
+Photography by Marley Kate | Styling by Grant Woolhead
+
+In a pop world dominate",DISTILBERT,human,human,0.547,Correct
+"British business magnate, media personality, and political advisor
+
+Alan Michael Sugar, Baron Sugar ",BERT,human,human,0.757,Correct
+"British business magnate, media personality, and political advisor
+
+Alan Michael Sugar, Baron Sugar ",ROBERTA,human,ai,0.543,False Negative
+"British business magnate, media personality, and political advisor
+
+Alan Michael Sugar, Baron Sugar ",DEBERTA,human,human,0.501,Correct
+"British business magnate, media personality, and political advisor
+
+Alan Michael Sugar, Baron Sugar ",ELECTRA,human,ai,0.537,False Negative
+"British business magnate, media personality, and political advisor
+
+Alan Michael Sugar, Baron Sugar ",DISTILBERT,human,human,0.548,Correct
+"Throughout Europe and North America, a considerable portion of the contemporary radical scene takes ",BERT,human,human,0.748,Correct
+"Throughout Europe and North America, a considerable portion of the contemporary radical scene takes ",ROBERTA,human,ai,0.541,False Negative
+"Throughout Europe and North America, a considerable portion of the contemporary radical scene takes ",DEBERTA,human,human,0.5,Correct
+"Throughout Europe and North America, a considerable portion of the contemporary radical scene takes ",ELECTRA,human,ai,0.542,False Negative
+"Throughout Europe and North America, a considerable portion of the contemporary radical scene takes ",DISTILBERT,human,human,0.554,Correct
+"May 18, 2017
+
+Paul Le Blanc , the author of numerous books, including Lenin and the Revolutionary Pa",BERT,human,human,0.664,Correct
+"May 18, 2017
+
+Paul Le Blanc , the author of numerous books, including Lenin and the Revolutionary Pa",ROBERTA,human,ai,0.545,False Negative
+"May 18, 2017
+
+Paul Le Blanc , the author of numerous books, including Lenin and the Revolutionary Pa",DEBERTA,human,ai,0.501,False Negative
+"May 18, 2017
+
+Paul Le Blanc , the author of numerous books, including Lenin and the Revolutionary Pa",ELECTRA,human,ai,0.542,False Negative
+"May 18, 2017
+
+Paul Le Blanc , the author of numerous books, including Lenin and the Revolutionary Pa",DISTILBERT,human,human,0.558,Correct
+"For another ship of the same name, see ARA General Belgrano (1896)
+
+ARA General Belgrano was an Arge",BERT,human,human,0.745,Correct
+"For another ship of the same name, see ARA General Belgrano (1896)
+
+ARA General Belgrano was an Arge",ROBERTA,human,ai,0.548,False Negative
+"For another ship of the same name, see ARA General Belgrano (1896)
+
+ARA General Belgrano was an Arge",DEBERTA,human,human,0.502,Correct
+"For another ship of the same name, see ARA General Belgrano (1896)
+
+ARA General Belgrano was an Arge",ELECTRA,human,ai,0.537,False Negative
+"For another ship of the same name, see ARA General Belgrano (1896)
+
+ARA General Belgrano was an Arge",DISTILBERT,human,human,0.526,Correct
+"(PDFs of World Policy Journal articles can be purchased through SAGE. Subscribe to WPJ here)
+
+From t",BERT,human,human,0.743,Correct
+"(PDFs of World Policy Journal articles can be purchased through SAGE. Subscribe to WPJ here)
+
+From t",ROBERTA,human,ai,0.544,False Negative
+"(PDFs of World Policy Journal articles can be purchased through SAGE. Subscribe to WPJ here)
+
+From t",DEBERTA,human,human,0.5,Correct
+"(PDFs of World Policy Journal articles can be purchased through SAGE. Subscribe to WPJ here)
+
+From t",ELECTRA,human,ai,0.532,False Negative
+"(PDFs of World Policy Journal articles can be purchased through SAGE. Subscribe to WPJ here)
+
+From t",DISTILBERT,human,human,0.567,Correct
+"Washington, DC, January 24, 2014  A recently declassified transcript of a telephone conversation (t",BERT,human,human,0.723,Correct
+"Washington, DC, January 24, 2014  A recently declassified transcript of a telephone conversation (t",ROBERTA,human,ai,0.545,False Negative
+"Washington, DC, January 24, 2014  A recently declassified transcript of a telephone conversation (t",DEBERTA,human,human,0.5,Correct
+"Washington, DC, January 24, 2014  A recently declassified transcript of a telephone conversation (t",ELECTRA,human,ai,0.543,False Negative
+"Washington, DC, January 24, 2014  A recently declassified transcript of a telephone conversation (t",DISTILBERT,human,human,0.534,Correct
+"She is 74 years old, and she is ripped.
+
+Sculpted deltoids, carved biceps and a stomach chiseled int",BERT,human,human,0.725,Correct
+"She is 74 years old, and she is ripped.
+
+Sculpted deltoids, carved biceps and a stomach chiseled int",ROBERTA,human,ai,0.54,False Negative
+"She is 74 years old, and she is ripped.
+
+Sculpted deltoids, carved biceps and a stomach chiseled int",DEBERTA,human,human,0.5,Correct
+"She is 74 years old, and she is ripped.
+
+Sculpted deltoids, carved biceps and a stomach chiseled int",ELECTRA,human,ai,0.531,False Negative
+"She is 74 years old, and she is ripped.
+
+Sculpted deltoids, carved biceps and a stomach chiseled int",DISTILBERT,human,human,0.548,Correct
+The following is a little more than I normally write I have been working on this for a few months n,BERT,human,human,0.736,Correct
+The following is a little more than I normally write I have been working on this for a few months n,ROBERTA,human,ai,0.543,False Negative
+The following is a little more than I normally write I have been working on this for a few months n,DEBERTA,human,ai,0.501,False Negative
+The following is a little more than I normally write I have been working on this for a few months n,ELECTRA,human,ai,0.546,False Negative
+The following is a little more than I normally write I have been working on this for a few months n,DISTILBERT,human,human,0.55,Correct
+"A degree of mystery attends the buildup to my meeting with Abel Tesfaye, the 26-year-old Ethiopian-C",BERT,human,human,0.745,Correct
+"A degree of mystery attends the buildup to my meeting with Abel Tesfaye, the 26-year-old Ethiopian-C",ROBERTA,human,ai,0.544,False Negative
+"A degree of mystery attends the buildup to my meeting with Abel Tesfaye, the 26-year-old Ethiopian-C",DEBERTA,human,human,0.5,Correct
+"A degree of mystery attends the buildup to my meeting with Abel Tesfaye, the 26-year-old Ethiopian-C",ELECTRA,human,ai,0.532,False Negative
+"A degree of mystery attends the buildup to my meeting with Abel Tesfaye, the 26-year-old Ethiopian-C",DISTILBERT,human,human,0.545,Correct
+Stardust was a 390 kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mis,BERT,human,human,0.731,Correct
+Stardust was a 390 kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mis,ROBERTA,human,ai,0.545,False Negative
+Stardust was a 390 kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mis,DEBERTA,human,human,0.5,Correct
+Stardust was a 390 kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mis,ELECTRA,human,ai,0.541,False Negative
+Stardust was a 390 kilogram robotic space probe launched by NASA on 7 February 1999. Its primary mis,DISTILBERT,human,human,0.556,Correct
+"On-Field Economics
+
+During the hot stove season, there is a lot of discussion about which teams are ",BERT,human,human,0.711,Correct
+"On-Field Economics
+
+During the hot stove season, there is a lot of discussion about which teams are ",ROBERTA,human,ai,0.54,False Negative
+"On-Field Economics
+
+During the hot stove season, there is a lot of discussion about which teams are ",DEBERTA,human,ai,0.501,False Negative
+"On-Field Economics
+
+During the hot stove season, there is a lot of discussion about which teams are ",ELECTRA,human,ai,0.537,False Negative
+"On-Field Economics
+
+During the hot stove season, there is a lot of discussion about which teams are ",DISTILBERT,human,human,0.545,Correct
+"November 10, 2009
+
+IN YOUR new book, you allude to right-wing think tanks like the Heritage Foundati",BERT,human,human,0.738,Correct
+"November 10, 2009
+
+IN YOUR new book, you allude to right-wing think tanks like the Heritage Foundati",ROBERTA,human,ai,0.542,False Negative
+"November 10, 2009
+
+IN YOUR new book, you allude to right-wing think tanks like the Heritage Foundati",DEBERTA,human,ai,0.5,False Negative
+"November 10, 2009
+
+IN YOUR new book, you allude to right-wing think tanks like the Heritage Foundati",ELECTRA,human,ai,0.538,False Negative
+"November 10, 2009
+
+IN YOUR new book, you allude to right-wing think tanks like the Heritage Foundati",DISTILBERT,human,human,0.543,Correct
+"The 20th Annual Epcot International Food & Wine Festival is going on now from Sept. 25-Nov. 16, 2015",BERT,human,human,0.689,Correct
+"The 20th Annual Epcot International Food & Wine Festival is going on now from Sept. 25-Nov. 16, 2015",ROBERTA,human,ai,0.545,False Negative
+"The 20th Annual Epcot International Food & Wine Festival is going on now from Sept. 25-Nov. 16, 2015",DEBERTA,human,ai,0.5,False Negative
+"The 20th Annual Epcot International Food & Wine Festival is going on now from Sept. 25-Nov. 16, 2015",ELECTRA,human,ai,0.532,False Negative
+"The 20th Annual Epcot International Food & Wine Festival is going on now from Sept. 25-Nov. 16, 2015",DISTILBERT,human,human,0.563,Correct
+"1. The Many Forms of Friendship
+
+Utility friendships: This a relationship between two or more indivi",BERT,human,human,0.723,Correct
+"1. The Many Forms of Friendship
+
+Utility friendships: This a relationship between two or more indivi",ROBERTA,human,ai,0.54,False Negative
+"1. The Many Forms of Friendship
+
+Utility friendships: This a relationship between two or more indivi",DEBERTA,human,ai,0.501,False Negative
+"1. The Many Forms of Friendship
+
+Utility friendships: This a relationship between two or more indivi",ELECTRA,human,ai,0.546,False Negative
+"1. The Many Forms of Friendship
+
+Utility friendships: This a relationship between two or more indivi",DISTILBERT,human,human,0.541,Correct
+"Local on the 8s Also known as Local Forecast (19821996, 19982002) Created by The Weather Channel B",BERT,human,human,0.67,Correct
+"Local on the 8s Also known as Local Forecast (19821996, 19982002) Created by The Weather Channel B",ROBERTA,human,ai,0.538,False Negative
+"Local on the 8s Also known as Local Forecast (19821996, 19982002) Created by The Weather Channel B",DEBERTA,human,human,0.501,Correct
+"Local on the 8s Also known as Local Forecast (19821996, 19982002) Created by The Weather Channel B",ELECTRA,human,ai,0.537,False Negative
+"Local on the 8s Also known as Local Forecast (19821996, 19982002) Created by The Weather Channel B",DISTILBERT,human,human,0.567,Correct
+"Attempt to locate the e-mail sent to you when you first registered, check your username and password",BERT,human,human,0.701,Correct
+"Attempt to locate the e-mail sent to you when you first registered, check your username and password",ROBERTA,human,ai,0.54,False Negative
+"Attempt to locate the e-mail sent to you when you first registered, check your username and password",DEBERTA,human,human,0.5,Correct
+"Attempt to locate the e-mail sent to you when you first registered, check your username and password",ELECTRA,human,ai,0.536,False Negative
+"Attempt to locate the e-mail sent to you when you first registered, check your username and password",DISTILBERT,human,human,0.548,Correct
+"Mapuche or Mapudungun[6] (from mapu 'land' and dungun 'speak, speech') is a language isolate spoken ",BERT,human,human,0.713,Correct
+"Mapuche or Mapudungun[6] (from mapu 'land' and dungun 'speak, speech') is a language isolate spoken ",ROBERTA,human,ai,0.542,False Negative
+"Mapuche or Mapudungun[6] (from mapu 'land' and dungun 'speak, speech') is a language isolate spoken ",DEBERTA,human,human,0.501,Correct
+"Mapuche or Mapudungun[6] (from mapu 'land' and dungun 'speak, speech') is a language isolate spoken ",ELECTRA,human,ai,0.529,False Negative
+"Mapuche or Mapudungun[6] (from mapu 'land' and dungun 'speak, speech') is a language isolate spoken ",DISTILBERT,human,human,0.533,Correct
+"On a sweltering afternoon, an unmarked white jetliner taxies to a remote terminal at the internation",BERT,human,human,0.725,Correct
+"On a sweltering afternoon, an unmarked white jetliner taxies to a remote terminal at the internation",ROBERTA,human,ai,0.541,False Negative
+"On a sweltering afternoon, an unmarked white jetliner taxies to a remote terminal at the internation",DEBERTA,human,ai,0.5,False Negative
+"On a sweltering afternoon, an unmarked white jetliner taxies to a remote terminal at the internation",ELECTRA,human,ai,0.53,False Negative
+"On a sweltering afternoon, an unmarked white jetliner taxies to a remote terminal at the internation",DISTILBERT,human,human,0.533,Correct
+"The UK road tax system, or Vehicle Excise Duty (VED) frequently changes. Given road tax generates ar",BERT,human,human,0.725,Correct
+"The UK road tax system, or Vehicle Excise Duty (VED) frequently changes. Given road tax generates ar",ROBERTA,human,ai,0.541,False Negative
+"The UK road tax system, or Vehicle Excise Duty (VED) frequently changes. Given road tax generates ar",DEBERTA,human,human,0.5,Correct
+"The UK road tax system, or Vehicle Excise Duty (VED) frequently changes. Given road tax generates ar",ELECTRA,human,ai,0.537,False Negative
+"The UK road tax system, or Vehicle Excise Duty (VED) frequently changes. Given road tax generates ar",DISTILBERT,human,human,0.559,Correct
+"We want to emphasise the lesson often repeated by history, that it is easy to kill individuals but ",BERT,human,human,0.688,Correct
+"We want to emphasise the lesson often repeated by history, that it is easy to kill individuals but ",ROBERTA,human,ai,0.543,False Negative
+"We want to emphasise the lesson often repeated by history, that it is easy to kill individuals but ",DEBERTA,human,human,0.5,Correct
+"We want to emphasise the lesson often repeated by history, that it is easy to kill individuals but ",ELECTRA,human,ai,0.535,False Negative
+"We want to emphasise the lesson often repeated by history, that it is easy to kill individuals but ",DISTILBERT,human,human,0.556,Correct
+Its strange to see the media turn its attention to places like my hometown in coal-country Pennsylv,BERT,human,human,0.752,Correct
+Its strange to see the media turn its attention to places like my hometown in coal-country Pennsylv,ROBERTA,human,ai,0.54,False Negative
+Its strange to see the media turn its attention to places like my hometown in coal-country Pennsylv,DEBERTA,human,human,0.501,Correct
+Its strange to see the media turn its attention to places like my hometown in coal-country Pennsylv,ELECTRA,human,ai,0.549,False Negative
+Its strange to see the media turn its attention to places like my hometown in coal-country Pennsylv,DISTILBERT,human,human,0.549,Correct
+It seemed like one of those mad questions that only arises after a few many drinks or one too many c,BERT,human,human,0.685,Correct
+It seemed like one of those mad questions that only arises after a few many drinks or one too many c,ROBERTA,human,ai,0.542,False Negative
+It seemed like one of those mad questions that only arises after a few many drinks or one too many c,DEBERTA,human,ai,0.5,False Negative
+It seemed like one of those mad questions that only arises after a few many drinks or one too many c,ELECTRA,human,ai,0.527,False Negative
+It seemed like one of those mad questions that only arises after a few many drinks or one too many c,DISTILBERT,human,human,0.528,Correct
+"Nine Minutes
+
+Summary: During the final fight with Crocodile, Luffy makes a mistake and ends up dead",BERT,human,human,0.714,Correct
+"Nine Minutes
+
+Summary: During the final fight with Crocodile, Luffy makes a mistake and ends up dead",ROBERTA,human,ai,0.541,False Negative
+"Nine Minutes
+
+Summary: During the final fight with Crocodile, Luffy makes a mistake and ends up dead",DEBERTA,human,ai,0.502,False Negative
+"Nine Minutes
+
+Summary: During the final fight with Crocodile, Luffy makes a mistake and ends up dead",ELECTRA,human,ai,0.544,False Negative
+"Nine Minutes
+
+Summary: During the final fight with Crocodile, Luffy makes a mistake and ends up dead",DISTILBERT,human,human,0.547,Correct
+President Barack Obamas late April visits to Asian countries were assessed in Korean papers as an a,BERT,human,human,0.616,Correct
+President Barack Obamas late April visits to Asian countries were assessed in Korean papers as an a,ROBERTA,human,ai,0.545,False Negative
+President Barack Obamas late April visits to Asian countries were assessed in Korean papers as an a,DEBERTA,human,ai,0.5,False Negative
+President Barack Obamas late April visits to Asian countries were assessed in Korean papers as an a,ELECTRA,human,ai,0.534,False Negative
+President Barack Obamas late April visits to Asian countries were assessed in Korean papers as an a,DISTILBERT,human,human,0.553,Correct
+Whos your daddy? Its a fair question. A meta-study published in 2006 by a University of Oklahoma a,BERT,human,human,0.745,Correct
+Whos your daddy? Its a fair question. A meta-study published in 2006 by a University of Oklahoma a,ROBERTA,human,ai,0.547,False Negative
+Whos your daddy? Its a fair question. A meta-study published in 2006 by a University of Oklahoma a,DEBERTA,human,human,0.5,Correct
+Whos your daddy? Its a fair question. A meta-study published in 2006 by a University of Oklahoma a,ELECTRA,human,ai,0.543,False Negative
+Whos your daddy? Its a fair question. A meta-study published in 2006 by a University of Oklahoma a,DISTILBERT,human,human,0.549,Correct
+"The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth",BERT,human,human,0.685,Correct
+"The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth",ROBERTA,human,ai,0.541,False Negative
+"The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth",DEBERTA,human,human,0.501,Correct
+"The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth",ELECTRA,human,ai,0.541,False Negative
+"The Bourne Legacy is a 2012 American action thriller film directed by Tony Gilroy, and is the fourth",DISTILBERT,human,human,0.53,Correct
+1) The model is not described very well. It is difficult to understand how the simulation model work,BERT,human,human,0.671,Correct
+1) The model is not described very well. It is difficult to understand how the simulation model work,ROBERTA,human,ai,0.538,False Negative
+1) The model is not described very well. It is difficult to understand how the simulation model work,DEBERTA,human,ai,0.501,False Negative
+1) The model is not described very well. It is difficult to understand how the simulation model work,ELECTRA,human,ai,0.541,False Negative
+1) The model is not described very well. It is difficult to understand how the simulation model work,DISTILBERT,human,human,0.533,Correct
+An in-depth Spinoff investigation reveals exactly who invented What Now gunge and unravels the myste,BERT,human,human,0.691,Correct
+An in-depth Spinoff investigation reveals exactly who invented What Now gunge and unravels the myste,ROBERTA,human,ai,0.544,False Negative
+An in-depth Spinoff investigation reveals exactly who invented What Now gunge and unravels the myste,DEBERTA,human,human,0.5,Correct
+An in-depth Spinoff investigation reveals exactly who invented What Now gunge and unravels the myste,ELECTRA,human,ai,0.538,False Negative
+An in-depth Spinoff investigation reveals exactly who invented What Now gunge and unravels the myste,DISTILBERT,human,human,0.552,Correct
+"No statistical methods were used to predetermine sample size.
+
+Sample acquisition
+
+Metagenomic sampl",BERT,human,human,0.72,Correct
+"No statistical methods were used to predetermine sample size.
+
+Sample acquisition
+
+Metagenomic sampl",ROBERTA,human,ai,0.543,False Negative
+"No statistical methods were used to predetermine sample size.
+
+Sample acquisition
+
+Metagenomic sampl",DEBERTA,human,human,0.501,Correct
+"No statistical methods were used to predetermine sample size.
+
+Sample acquisition
+
+Metagenomic sampl",ELECTRA,human,ai,0.527,False Negative
+"No statistical methods were used to predetermine sample size.
+
+Sample acquisition
+
+Metagenomic sampl",DISTILBERT,human,human,0.558,Correct
+Being an entrepreneur comes with benefits  a big one being job satisfaction. This makes sense as bu,BERT,human,human,0.732,Correct
+Being an entrepreneur comes with benefits  a big one being job satisfaction. This makes sense as bu,ROBERTA,human,ai,0.54,False Negative
+Being an entrepreneur comes with benefits  a big one being job satisfaction. This makes sense as bu,DEBERTA,human,ai,0.5,False Negative
+Being an entrepreneur comes with benefits  a big one being job satisfaction. This makes sense as bu,ELECTRA,human,ai,0.541,False Negative
+Being an entrepreneur comes with benefits  a big one being job satisfaction. This makes sense as bu,DISTILBERT,human,human,0.559,Correct
+"Tech / Help
+
+The Dodge Spirit R/T: 224 Horsepower Four-Cylinder Sedan
+
+In 1989, the Dodge Spirit was",BERT,human,human,0.734,Correct
+"Tech / Help
+
+The Dodge Spirit R/T: 224 Horsepower Four-Cylinder Sedan
+
+In 1989, the Dodge Spirit was",ROBERTA,human,ai,0.544,False Negative
+"Tech / Help
+
+The Dodge Spirit R/T: 224 Horsepower Four-Cylinder Sedan
+
+In 1989, the Dodge Spirit was",DEBERTA,human,ai,0.501,False Negative
+"Tech / Help
+
+The Dodge Spirit R/T: 224 Horsepower Four-Cylinder Sedan
+
+In 1989, the Dodge Spirit was",ELECTRA,human,ai,0.527,False Negative
+"Tech / Help
+
+The Dodge Spirit R/T: 224 Horsepower Four-Cylinder Sedan
+
+In 1989, the Dodge Spirit was",DISTILBERT,human,human,0.554,Correct
+Christmas trees are burned in a fire pit at Seattle's Golden Gardens beach park in what has become a,BERT,human,human,0.712,Correct
+Christmas trees are burned in a fire pit at Seattle's Golden Gardens beach park in what has become a,ROBERTA,human,ai,0.543,False Negative
+Christmas trees are burned in a fire pit at Seattle's Golden Gardens beach park in what has become a,DEBERTA,human,human,0.5,Correct
+Christmas trees are burned in a fire pit at Seattle's Golden Gardens beach park in what has become a,ELECTRA,human,ai,0.544,False Negative
+Christmas trees are burned in a fire pit at Seattle's Golden Gardens beach park in what has become a,DISTILBERT,human,human,0.558,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+AMY GOODMAN: As we continue our cover",BERT,human,human,0.704,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+AMY GOODMAN: As we continue our cover",ROBERTA,human,ai,0.546,False Negative
+"This is a rush transcript. Copy may not be in its final form.
+
+AMY GOODMAN: As we continue our cover",DEBERTA,human,human,0.501,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+AMY GOODMAN: As we continue our cover",ELECTRA,human,ai,0.534,False Negative
+"This is a rush transcript. Copy may not be in its final form.
+
+AMY GOODMAN: As we continue our cover",DISTILBERT,human,human,0.548,Correct
+"HOUSTON -- Chris Myers leans over his baby Keane, cradled in his wife's arm in Room 18 of Memorial H",BERT,human,human,0.714,Correct
+"HOUSTON -- Chris Myers leans over his baby Keane, cradled in his wife's arm in Room 18 of Memorial H",ROBERTA,human,ai,0.538,False Negative
+"HOUSTON -- Chris Myers leans over his baby Keane, cradled in his wife's arm in Room 18 of Memorial H",DEBERTA,human,ai,0.501,False Negative
+"HOUSTON -- Chris Myers leans over his baby Keane, cradled in his wife's arm in Room 18 of Memorial H",ELECTRA,human,ai,0.536,False Negative
+"HOUSTON -- Chris Myers leans over his baby Keane, cradled in his wife's arm in Room 18 of Memorial H",DISTILBERT,human,human,0.549,Correct
+My dear Lydia Lova  You will not remember me but I remember you so well. We were at Ravensbrück to,BERT,human,human,0.691,Correct
+My dear Lydia Lova  You will not remember me but I remember you so well. We were at Ravensbrück to,ROBERTA,human,ai,0.547,False Negative
+My dear Lydia Lova  You will not remember me but I remember you so well. We were at Ravensbrück to,DEBERTA,human,ai,0.5,False Negative
+My dear Lydia Lova  You will not remember me but I remember you so well. We were at Ravensbrück to,ELECTRA,human,ai,0.533,False Negative
+My dear Lydia Lova  You will not remember me but I remember you so well. We were at Ravensbrück to,DISTILBERT,human,human,0.544,Correct
+"Blackmoon. Monthly Digest. December, 2017
+
+Blackmoon Blocked Unblock Follow Following Dec 13, 2017
+
+",BERT,human,human,0.717,Correct
+"Blackmoon. Monthly Digest. December, 2017
+
+Blackmoon Blocked Unblock Follow Following Dec 13, 2017
+
+",ROBERTA,human,ai,0.543,False Negative
+"Blackmoon. Monthly Digest. December, 2017
+
+Blackmoon Blocked Unblock Follow Following Dec 13, 2017
+
+",DEBERTA,human,ai,0.501,False Negative
+"Blackmoon. Monthly Digest. December, 2017
+
+Blackmoon Blocked Unblock Follow Following Dec 13, 2017
+
+",ELECTRA,human,ai,0.537,False Negative
+"Blackmoon. Monthly Digest. December, 2017
+
+Blackmoon Blocked Unblock Follow Following Dec 13, 2017
+
+",DISTILBERT,human,human,0.569,Correct
+"Parking at Bedrock.LA is an exercise in inefficiency. Rather than conform to normalcy, the designers",BERT,human,human,0.725,Correct
+"Parking at Bedrock.LA is an exercise in inefficiency. Rather than conform to normalcy, the designers",ROBERTA,human,ai,0.544,False Negative
+"Parking at Bedrock.LA is an exercise in inefficiency. Rather than conform to normalcy, the designers",DEBERTA,human,ai,0.5,False Negative
+"Parking at Bedrock.LA is an exercise in inefficiency. Rather than conform to normalcy, the designers",ELECTRA,human,ai,0.538,False Negative
+"Parking at Bedrock.LA is an exercise in inefficiency. Rather than conform to normalcy, the designers",DISTILBERT,human,human,0.552,Correct
+"Ahoy, squirts! Quint here with a little chat I did with Ms. Thelma Schoonmaker. While she's most fam",BERT,human,human,0.732,Correct
+"Ahoy, squirts! Quint here with a little chat I did with Ms. Thelma Schoonmaker. While she's most fam",ROBERTA,human,ai,0.545,False Negative
+"Ahoy, squirts! Quint here with a little chat I did with Ms. Thelma Schoonmaker. While she's most fam",DEBERTA,human,human,0.5,Correct
+"Ahoy, squirts! Quint here with a little chat I did with Ms. Thelma Schoonmaker. While she's most fam",ELECTRA,human,ai,0.537,False Negative
+"Ahoy, squirts! Quint here with a little chat I did with Ms. Thelma Schoonmaker. While she's most fam",DISTILBERT,human,human,0.548,Correct
+"Relentlessly resourceful.
+
+This is the essential quality of a good startup founder according to Paul",BERT,human,human,0.733,Correct
+"Relentlessly resourceful.
+
+This is the essential quality of a good startup founder according to Paul",ROBERTA,human,ai,0.542,False Negative
+"Relentlessly resourceful.
+
+This is the essential quality of a good startup founder according to Paul",DEBERTA,human,ai,0.501,False Negative
+"Relentlessly resourceful.
+
+This is the essential quality of a good startup founder according to Paul",ELECTRA,human,ai,0.541,False Negative
+"Relentlessly resourceful.
+
+This is the essential quality of a good startup founder according to Paul",DISTILBERT,human,human,0.557,Correct
+Today marks the publication of the 50th review in my ImmerseOrDie indie book review series. For thos,BERT,human,human,0.72,Correct
+Today marks the publication of the 50th review in my ImmerseOrDie indie book review series. For thos,ROBERTA,human,ai,0.541,False Negative
+Today marks the publication of the 50th review in my ImmerseOrDie indie book review series. For thos,DEBERTA,human,human,0.5,Correct
+Today marks the publication of the 50th review in my ImmerseOrDie indie book review series. For thos,ELECTRA,human,ai,0.542,False Negative
+Today marks the publication of the 50th review in my ImmerseOrDie indie book review series. For thos,DISTILBERT,human,human,0.556,Correct
+"by Genevieve Valentine
+
+Author spotlight
+
+So hook yourself up to an airship
+
+Strap on your mask and ",BERT,human,human,0.696,Correct
+"by Genevieve Valentine
+
+Author spotlight
+
+So hook yourself up to an airship
+
+Strap on your mask and ",ROBERTA,human,ai,0.541,False Negative
+"by Genevieve Valentine
+
+Author spotlight
+
+So hook yourself up to an airship
+
+Strap on your mask and ",DEBERTA,human,human,0.5,Correct
+"by Genevieve Valentine
+
+Author spotlight
+
+So hook yourself up to an airship
+
+Strap on your mask and ",ELECTRA,human,ai,0.538,False Negative
+"by Genevieve Valentine
+
+Author spotlight
+
+So hook yourself up to an airship
+
+Strap on your mask and ",DISTILBERT,human,human,0.558,Correct
+"Content warning: This post contains discussion and accounts of trafficking, debt bondage, and exploi",BERT,human,human,0.733,Correct
+"Content warning: This post contains discussion and accounts of trafficking, debt bondage, and exploi",ROBERTA,human,ai,0.54,False Negative
+"Content warning: This post contains discussion and accounts of trafficking, debt bondage, and exploi",DEBERTA,human,ai,0.5,False Negative
+"Content warning: This post contains discussion and accounts of trafficking, debt bondage, and exploi",ELECTRA,human,ai,0.541,False Negative
+"Content warning: This post contains discussion and accounts of trafficking, debt bondage, and exploi",DISTILBERT,human,human,0.562,Correct
+"Tatsuo Kimura Sensei Instructing
+
+Sagawa Sensei entered the world of Aiki when he was 17 years old.",BERT,human,human,0.688,Correct
+"Tatsuo Kimura Sensei Instructing
+
+Sagawa Sensei entered the world of Aiki when he was 17 years old.",ROBERTA,human,ai,0.541,False Negative
+"Tatsuo Kimura Sensei Instructing
+
+Sagawa Sensei entered the world of Aiki when he was 17 years old.",DEBERTA,human,ai,0.501,False Negative
+"Tatsuo Kimura Sensei Instructing
+
+Sagawa Sensei entered the world of Aiki when he was 17 years old.",ELECTRA,human,ai,0.537,False Negative
+"Tatsuo Kimura Sensei Instructing
+
+Sagawa Sensei entered the world of Aiki when he was 17 years old.",DISTILBERT,human,human,0.552,Correct
+"THANK YOU!
+
+We are so grateful for all of your support in helping us reach our $35,000 goal! With yo",BERT,human,human,0.733,Correct
+"THANK YOU!
+
+We are so grateful for all of your support in helping us reach our $35,000 goal! With yo",ROBERTA,human,ai,0.542,False Negative
+"THANK YOU!
+
+We are so grateful for all of your support in helping us reach our $35,000 goal! With yo",DEBERTA,human,ai,0.5,False Negative
+"THANK YOU!
+
+We are so grateful for all of your support in helping us reach our $35,000 goal! With yo",ELECTRA,human,ai,0.539,False Negative
+"THANK YOU!
+
+We are so grateful for all of your support in helping us reach our $35,000 goal! With yo",DISTILBERT,human,human,0.558,Correct
+"Nadezhda Kevorkova has worked at RT since 2010, before which she was a special correspondent for No",BERT,human,human,0.729,Correct
+"Nadezhda Kevorkova has worked at RT since 2010, before which she was a special correspondent for No",ROBERTA,human,ai,0.542,False Negative
+"Nadezhda Kevorkova has worked at RT since 2010, before which she was a special correspondent for No",DEBERTA,human,human,0.5,Correct
+"Nadezhda Kevorkova has worked at RT since 2010, before which she was a special correspondent for No",ELECTRA,human,ai,0.534,False Negative
+"Nadezhda Kevorkova has worked at RT since 2010, before which she was a special correspondent for No",DISTILBERT,human,human,0.551,Correct
+"""We don't believe the NSA has come near our data We have a tremendous amount of thought and procedu",BERT,human,human,0.595,Correct
+"""We don't believe the NSA has come near our data We have a tremendous amount of thought and procedu",ROBERTA,human,ai,0.546,False Negative
+"""We don't believe the NSA has come near our data We have a tremendous amount of thought and procedu",DEBERTA,human,ai,0.5,False Negative
+"""We don't believe the NSA has come near our data We have a tremendous amount of thought and procedu",ELECTRA,human,ai,0.549,False Negative
+"""We don't believe the NSA has come near our data We have a tremendous amount of thought and procedu",DISTILBERT,human,human,0.548,Correct
+"(This was originally posted on Sunday, March 11, 2007)
+
+I recently re-read the amazing paper Why Fun",BERT,human,human,0.735,Correct
+"(This was originally posted on Sunday, March 11, 2007)
+
+I recently re-read the amazing paper Why Fun",ROBERTA,human,ai,0.542,False Negative
+"(This was originally posted on Sunday, March 11, 2007)
+
+I recently re-read the amazing paper Why Fun",DEBERTA,human,human,0.501,Correct
+"(This was originally posted on Sunday, March 11, 2007)
+
+I recently re-read the amazing paper Why Fun",ELECTRA,human,ai,0.546,False Negative
+"(This was originally posted on Sunday, March 11, 2007)
+
+I recently re-read the amazing paper Why Fun",DISTILBERT,human,human,0.551,Correct
+During the making of Moon there was a place that I'm sure many people would have loved to visit and ,BERT,human,human,0.763,Correct
+During the making of Moon there was a place that I'm sure many people would have loved to visit and ,ROBERTA,human,ai,0.544,False Negative
+During the making of Moon there was a place that I'm sure many people would have loved to visit and ,DEBERTA,human,ai,0.5,False Negative
+During the making of Moon there was a place that I'm sure many people would have loved to visit and ,ELECTRA,human,ai,0.541,False Negative
+During the making of Moon there was a place that I'm sure many people would have loved to visit and ,DISTILBERT,human,human,0.554,Correct
+"February 13, 2009 at 17:18 Tags Articles , Pygame tutorial
+
+This is part IV of the ""Writing a game i",BERT,human,human,0.74,Correct
+"February 13, 2009 at 17:18 Tags Articles , Pygame tutorial
+
+This is part IV of the ""Writing a game i",ROBERTA,human,ai,0.54,False Negative
+"February 13, 2009 at 17:18 Tags Articles , Pygame tutorial
+
+This is part IV of the ""Writing a game i",DEBERTA,human,ai,0.5,False Negative
+"February 13, 2009 at 17:18 Tags Articles , Pygame tutorial
+
+This is part IV of the ""Writing a game i",ELECTRA,human,ai,0.549,False Negative
+"February 13, 2009 at 17:18 Tags Articles , Pygame tutorial
+
+This is part IV of the ""Writing a game i",DISTILBERT,human,human,0.548,Correct
+"Chris Bosh spent the worst week of his life lying in a bed at Baptist Hospital in Miami, listening t",BERT,human,human,0.686,Correct
+"Chris Bosh spent the worst week of his life lying in a bed at Baptist Hospital in Miami, listening t",ROBERTA,human,ai,0.545,False Negative
+"Chris Bosh spent the worst week of his life lying in a bed at Baptist Hospital in Miami, listening t",DEBERTA,human,human,0.501,Correct
+"Chris Bosh spent the worst week of his life lying in a bed at Baptist Hospital in Miami, listening t",ELECTRA,human,ai,0.533,False Negative
+"Chris Bosh spent the worst week of his life lying in a bed at Baptist Hospital in Miami, listening t",DISTILBERT,human,human,0.549,Correct
+"In 2014, we published a list of video game people to follow on Twitter. Im not sure Id give the sa",BERT,human,human,0.74,Correct
+"In 2014, we published a list of video game people to follow on Twitter. Im not sure Id give the sa",ROBERTA,human,ai,0.543,False Negative
+"In 2014, we published a list of video game people to follow on Twitter. Im not sure Id give the sa",DEBERTA,human,human,0.501,Correct
+"In 2014, we published a list of video game people to follow on Twitter. Im not sure Id give the sa",ELECTRA,human,ai,0.54,False Negative
+"In 2014, we published a list of video game people to follow on Twitter. Im not sure Id give the sa",DISTILBERT,human,human,0.545,Correct
+"YouTube logo
+
+YouTube was created by PayPal employees as a video-sharing website where users could u",BERT,human,human,0.729,Correct
+"YouTube logo
+
+YouTube was created by PayPal employees as a video-sharing website where users could u",ROBERTA,human,ai,0.544,False Negative
+"YouTube logo
+
+YouTube was created by PayPal employees as a video-sharing website where users could u",DEBERTA,human,human,0.501,Correct
+"YouTube logo
+
+YouTube was created by PayPal employees as a video-sharing website where users could u",ELECTRA,human,ai,0.538,False Negative
+"YouTube logo
+
+YouTube was created by PayPal employees as a video-sharing website where users could u",DISTILBERT,human,human,0.554,Correct
+[Editor's note: Promoted from the FanPost.] -- The Philadelphia Eagles are rumored to have interest ,BERT,human,human,0.706,Correct
+[Editor's note: Promoted from the FanPost.] -- The Philadelphia Eagles are rumored to have interest ,ROBERTA,human,ai,0.547,False Negative
+[Editor's note: Promoted from the FanPost.] -- The Philadelphia Eagles are rumored to have interest ,DEBERTA,human,ai,0.501,False Negative
+[Editor's note: Promoted from the FanPost.] -- The Philadelphia Eagles are rumored to have interest ,ELECTRA,human,ai,0.536,False Negative
+[Editor's note: Promoted from the FanPost.] -- The Philadelphia Eagles are rumored to have interest ,DISTILBERT,human,human,0.533,Correct
+"From the instant they get drafted, things change in the life of an NHL prospect. Theres the rush of",BERT,human,human,0.679,Correct
+"From the instant they get drafted, things change in the life of an NHL prospect. Theres the rush of",ROBERTA,human,ai,0.545,False Negative
+"From the instant they get drafted, things change in the life of an NHL prospect. Theres the rush of",DEBERTA,human,ai,0.5,False Negative
+"From the instant they get drafted, things change in the life of an NHL prospect. Theres the rush of",ELECTRA,human,ai,0.538,False Negative
+"From the instant they get drafted, things change in the life of an NHL prospect. Theres the rush of",DISTILBERT,human,human,0.544,Correct
+"Hey everyone!
+
+Many of you may recognize me from our online interactions on social media, online dis",BERT,human,human,0.733,Correct
+"Hey everyone!
+
+Many of you may recognize me from our online interactions on social media, online dis",ROBERTA,human,ai,0.54,False Negative
+"Hey everyone!
+
+Many of you may recognize me from our online interactions on social media, online dis",DEBERTA,human,human,0.5,Correct
+"Hey everyone!
+
+Many of you may recognize me from our online interactions on social media, online dis",ELECTRA,human,ai,0.541,False Negative
+"Hey everyone!
+
+Many of you may recognize me from our online interactions on social media, online dis",DISTILBERT,human,human,0.561,Correct
+"By Kathy Blackwell | April 1, 2016 | Culture
+
+As commerce becomes increasingly cutthroat and profita",BERT,human,human,0.704,Correct
+"By Kathy Blackwell | April 1, 2016 | Culture
+
+As commerce becomes increasingly cutthroat and profita",ROBERTA,human,ai,0.542,False Negative
+"By Kathy Blackwell | April 1, 2016 | Culture
+
+As commerce becomes increasingly cutthroat and profita",DEBERTA,human,human,0.5,Correct
+"By Kathy Blackwell | April 1, 2016 | Culture
+
+As commerce becomes increasingly cutthroat and profita",ELECTRA,human,ai,0.542,False Negative
+"By Kathy Blackwell | April 1, 2016 | Culture
+
+As commerce becomes increasingly cutthroat and profita",DISTILBERT,human,human,0.565,Correct
+"933 SHARES Share Tweet
+
+Scottish Government private finance schemes to build public projects are sec",BERT,human,human,0.735,Correct
+"933 SHARES Share Tweet
+
+Scottish Government private finance schemes to build public projects are sec",ROBERTA,human,ai,0.54,False Negative
+"933 SHARES Share Tweet
+
+Scottish Government private finance schemes to build public projects are sec",DEBERTA,human,ai,0.5,False Negative
+"933 SHARES Share Tweet
+
+Scottish Government private finance schemes to build public projects are sec",ELECTRA,human,ai,0.53,False Negative
+"933 SHARES Share Tweet
+
+Scottish Government private finance schemes to build public projects are sec",DISTILBERT,human,human,0.554,Correct
+Take a trip back to a memorable timeline in sports entertainment with the most important stories rep,BERT,human,human,0.681,Correct
+Take a trip back to a memorable timeline in sports entertainment with the most important stories rep,ROBERTA,human,ai,0.542,False Negative
+Take a trip back to a memorable timeline in sports entertainment with the most important stories rep,DEBERTA,human,ai,0.5,False Negative
+Take a trip back to a memorable timeline in sports entertainment with the most important stories rep,ELECTRA,human,ai,0.542,False Negative
+Take a trip back to a memorable timeline in sports entertainment with the most important stories rep,DISTILBERT,human,human,0.557,Correct
+"1.
+
+You hope that when your book is published, it will break out.
+
+It will reach some sort of tippin",BERT,human,human,0.734,Correct
+"1.
+
+You hope that when your book is published, it will break out.
+
+It will reach some sort of tippin",ROBERTA,human,ai,0.544,False Negative
+"1.
+
+You hope that when your book is published, it will break out.
+
+It will reach some sort of tippin",DEBERTA,human,ai,0.501,False Negative
+"1.
+
+You hope that when your book is published, it will break out.
+
+It will reach some sort of tippin",ELECTRA,human,ai,0.542,False Negative
+"1.
+
+You hope that when your book is published, it will break out.
+
+It will reach some sort of tippin",DISTILBERT,human,human,0.563,Correct
+Scores of casualties in Sanaa have been caused by anti-aircraft munitions shot by the Huthi armed g,BERT,human,human,0.717,Correct
+Scores of casualties in Sanaa have been caused by anti-aircraft munitions shot by the Huthi armed g,ROBERTA,human,ai,0.54,False Negative
+Scores of casualties in Sanaa have been caused by anti-aircraft munitions shot by the Huthi armed g,DEBERTA,human,human,0.5,Correct
+Scores of casualties in Sanaa have been caused by anti-aircraft munitions shot by the Huthi armed g,ELECTRA,human,ai,0.54,False Negative
+Scores of casualties in Sanaa have been caused by anti-aircraft munitions shot by the Huthi armed g,DISTILBERT,human,human,0.556,Correct
+"A Step By Step Ladder Of Escalation
+
+16 SHARES Share
+
+The legendary and well-proven Dicarlo ladder o",BERT,human,human,0.698,Correct
+"A Step By Step Ladder Of Escalation
+
+16 SHARES Share
+
+The legendary and well-proven Dicarlo ladder o",ROBERTA,human,ai,0.546,False Negative
+"A Step By Step Ladder Of Escalation
+
+16 SHARES Share
+
+The legendary and well-proven Dicarlo ladder o",DEBERTA,human,ai,0.501,False Negative
+"A Step By Step Ladder Of Escalation
+
+16 SHARES Share
+
+The legendary and well-proven Dicarlo ladder o",ELECTRA,human,ai,0.54,False Negative
+"A Step By Step Ladder Of Escalation
+
+16 SHARES Share
+
+The legendary and well-proven Dicarlo ladder o",DISTILBERT,human,human,0.56,Correct
+"Chapter 13
+
+This was quite the predicament. Yu was alone and vulnerable. Still, there was no sense w",BERT,human,human,0.699,Correct
+"Chapter 13
+
+This was quite the predicament. Yu was alone and vulnerable. Still, there was no sense w",ROBERTA,human,ai,0.545,False Negative
+"Chapter 13
+
+This was quite the predicament. Yu was alone and vulnerable. Still, there was no sense w",DEBERTA,human,ai,0.501,False Negative
+"Chapter 13
+
+This was quite the predicament. Yu was alone and vulnerable. Still, there was no sense w",ELECTRA,human,ai,0.54,False Negative
+"Chapter 13
+
+This was quite the predicament. Yu was alone and vulnerable. Still, there was no sense w",DISTILBERT,human,human,0.543,Correct
+"I may have gotten carried away here. I started with a few funny facts about presidents, and then add",BERT,human,human,0.738,Correct
+"I may have gotten carried away here. I started with a few funny facts about presidents, and then add",ROBERTA,human,ai,0.545,False Negative
+"I may have gotten carried away here. I started with a few funny facts about presidents, and then add",DEBERTA,human,human,0.501,Correct
+"I may have gotten carried away here. I started with a few funny facts about presidents, and then add",ELECTRA,human,ai,0.545,False Negative
+"I may have gotten carried away here. I started with a few funny facts about presidents, and then add",DISTILBERT,human,human,0.557,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+JUAN GONZÁLEZ: The Vatican has reprim",BERT,human,human,0.696,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+JUAN GONZÁLEZ: The Vatican has reprim",ROBERTA,human,ai,0.544,False Negative
+"This is a rush transcript. Copy may not be in its final form.
+
+JUAN GONZÁLEZ: The Vatican has reprim",DEBERTA,human,human,0.501,Correct
+"This is a rush transcript. Copy may not be in its final form.
+
+JUAN GONZÁLEZ: The Vatican has reprim",ELECTRA,human,ai,0.531,False Negative
+"This is a rush transcript. Copy may not be in its final form.
+
+JUAN GONZÁLEZ: The Vatican has reprim",DISTILBERT,human,human,0.538,Correct
+"Shuttleworth: On cadence and collaboration
+
+From: Mark Shuttleworth <mark-AT-ubuntu.com> To: debian-",BERT,human,human,0.728,Correct
+"Shuttleworth: On cadence and collaboration
+
+From: Mark Shuttleworth <mark-AT-ubuntu.com> To: debian-",ROBERTA,human,ai,0.542,False Negative
+"Shuttleworth: On cadence and collaboration
+
+From: Mark Shuttleworth <mark-AT-ubuntu.com> To: debian-",DEBERTA,human,ai,0.5,False Negative
+"Shuttleworth: On cadence and collaboration
+
+From: Mark Shuttleworth <mark-AT-ubuntu.com> To: debian-",ELECTRA,human,ai,0.538,False Negative
+"Shuttleworth: On cadence and collaboration
+
+From: Mark Shuttleworth <mark-AT-ubuntu.com> To: debian-",DISTILBERT,human,human,0.538,Correct
+"Worse, actually. Bear with me while I plow through these two seemingly off-topic abstracts:
+
+Female ",BERT,human,human,0.707,Correct
+"Worse, actually. Bear with me while I plow through these two seemingly off-topic abstracts:
+
+Female ",ROBERTA,human,ai,0.546,False Negative
+"Worse, actually. Bear with me while I plow through these two seemingly off-topic abstracts:
+
+Female ",DEBERTA,human,ai,0.501,False Negative
+"Worse, actually. Bear with me while I plow through these two seemingly off-topic abstracts:
+
+Female ",ELECTRA,human,ai,0.533,False Negative
+"Worse, actually. Bear with me while I plow through these two seemingly off-topic abstracts:
+
+Female ",DISTILBERT,human,human,0.556,Correct
+"vpncoin
+
+Offline
+
+Activity: 980
+
+Merit: 1000
+
+Blockchain engineer
+
+Hero MemberActivity: 980Merit: 10",BERT,human,human,0.731,Correct
+"vpncoin
+
+Offline
+
+Activity: 980
+
+Merit: 1000
+
+Blockchain engineer
+
+Hero MemberActivity: 980Merit: 10",ROBERTA,human,ai,0.548,False Negative
+"vpncoin
+
+Offline
+
+Activity: 980
+
+Merit: 1000
+
+Blockchain engineer
+
+Hero MemberActivity: 980Merit: 10",DEBERTA,human,ai,0.5,False Negative
+"vpncoin
+
+Offline
+
+Activity: 980
+
+Merit: 1000
+
+Blockchain engineer
+
+Hero MemberActivity: 980Merit: 10",ELECTRA,human,ai,0.542,False Negative
+"vpncoin
+
+Offline
+
+Activity: 980
+
+Merit: 1000
+
+Blockchain engineer
+
+Hero MemberActivity: 980Merit: 10",DISTILBERT,human,human,0.537,Correct
+"Ed Blackburn retires this year from Central City Concern, one of the city's largest homeless service",BERT,human,human,0.694,Correct
+"Ed Blackburn retires this year from Central City Concern, one of the city's largest homeless service",ROBERTA,human,ai,0.539,False Negative
+"Ed Blackburn retires this year from Central City Concern, one of the city's largest homeless service",DEBERTA,human,human,0.501,Correct
+"Ed Blackburn retires this year from Central City Concern, one of the city's largest homeless service",ELECTRA,human,ai,0.544,False Negative
+"Ed Blackburn retires this year from Central City Concern, one of the city's largest homeless service",DISTILBERT,human,human,0.561,Correct
+"1 of 30 Full Screen Autoplay Close Skip Ad × Womens World Cup final: U.S. beats Japan, 5-2 View Pho",BERT,human,human,0.682,Correct
+"1 of 30 Full Screen Autoplay Close Skip Ad × Womens World Cup final: U.S. beats Japan, 5-2 View Pho",ROBERTA,human,ai,0.542,False Negative
+"1 of 30 Full Screen Autoplay Close Skip Ad × Womens World Cup final: U.S. beats Japan, 5-2 View Pho",DEBERTA,human,ai,0.5,False Negative
+"1 of 30 Full Screen Autoplay Close Skip Ad × Womens World Cup final: U.S. beats Japan, 5-2 View Pho",ELECTRA,human,ai,0.539,False Negative
+"1 of 30 Full Screen Autoplay Close Skip Ad × Womens World Cup final: U.S. beats Japan, 5-2 View Pho",DISTILBERT,human,human,0.543,Correct
+"TERMS OF USE
+
+1. Proprietary Rights
+
+2. Product Information
+
+3. Communications with and Submissions ",BERT,human,human,0.737,Correct
+"TERMS OF USE
+
+1. Proprietary Rights
+
+2. Product Information
+
+3. Communications with and Submissions ",ROBERTA,human,ai,0.541,False Negative
+"TERMS OF USE
+
+1. Proprietary Rights
+
+2. Product Information
+
+3. Communications with and Submissions ",DEBERTA,human,ai,0.5,False Negative
+"TERMS OF USE
+
+1. Proprietary Rights
+
+2. Product Information
+
+3. Communications with and Submissions ",ELECTRA,human,ai,0.532,False Negative
+"TERMS OF USE
+
+1. Proprietary Rights
+
+2. Product Information
+
+3. Communications with and Submissions ",DISTILBERT,human,human,0.575,Correct

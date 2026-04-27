@@ -1,0 +1,344 @@
+Text,Model,Actual,Predicted,Confidence,Error Type
+"Photo-realistic image rendering using standard graphics
+ techniques is involved, since geometry, mat",DEBERTA,ai,human,0.561,False Positive
+"Photo-realistic image rendering using standard graphics
+ techniques is involved, since geometry, mat",ELECTRA,ai,human,0.521,False Positive
+"Photo-realistic image rendering using standard graphics
+ techniques is involved, since geometry, mat",DISTILBERT,ai,human,0.522,False Positive
+"The Large Hadron Collider is exploring physics at the energy frontier, probing some of the most fund",DEBERTA,ai,human,0.56,False Positive
+"The Large Hadron Collider is exploring physics at the energy frontier, probing some of the most fund",ELECTRA,ai,human,0.518,False Positive
+"With the rapid development of mobile Internet technology, more and more image information is stored ",BERT,ai,human,0.503,False Positive
+"With the rapid development of mobile Internet technology, more and more image information is stored ",DEBERTA,ai,human,0.56,False Positive
+"With the rapid development of mobile Internet technology, more and more image information is stored ",ELECTRA,ai,human,0.534,False Positive
+"With the rapid development of mobile Internet technology, more and more image information is stored ",DISTILBERT,ai,human,0.516,False Positive
+"Most contour tracking methods can be grouped into two categories, parametric active contour [6,7,8] ",DEBERTA,ai,human,0.56,False Positive
+"Most contour tracking methods can be grouped into two categories, parametric active contour [6,7,8] ",ELECTRA,ai,human,0.526,False Positive
+"Most contour tracking methods can be grouped into two categories, parametric active contour [6,7,8] ",DISTILBERT,ai,human,0.509,False Positive
+Year 2010 is regarded as the breakthrough year of 3D video and the 3D industry [1]. Miraculous 3D fi,DEBERTA,ai,human,0.56,False Positive
+Year 2010 is regarded as the breakthrough year of 3D video and the 3D industry [1]. Miraculous 3D fi,ELECTRA,ai,human,0.538,False Positive
+Year 2010 is regarded as the breakthrough year of 3D video and the 3D industry [1]. Miraculous 3D fi,DISTILBERT,ai,human,0.536,False Positive
+The challenge is that there are two criteria for the optimization of secret data embedding: visual q,DEBERTA,ai,human,0.56,False Positive
+The challenge is that there are two criteria for the optimization of secret data embedding: visual q,ELECTRA,ai,human,0.521,False Positive
+The challenge is that there are two criteria for the optimization of secret data embedding: visual q,DISTILBERT,ai,human,0.52,False Positive
+"Of the several methods for synthetic aperture radar (SAR) image formation, back-projection has many ",DEBERTA,ai,human,0.56,False Positive
+"Of the several methods for synthetic aperture radar (SAR) image formation, back-projection has many ",ELECTRA,ai,human,0.526,False Positive
+"Of the several methods for synthetic aperture radar (SAR) image formation, back-projection has many ",DISTILBERT,ai,human,0.518,False Positive
+Data augmentation is a common technique employed to synthesize more training data. Artificial variat,DEBERTA,ai,human,0.56,False Positive
+Data augmentation is a common technique employed to synthesize more training data. Artificial variat,ELECTRA,ai,human,0.528,False Positive
+Data augmentation is a common technique employed to synthesize more training data. Artificial variat,DISTILBERT,ai,human,0.52,False Positive
+"Recent developments in Deep Learning, such as Generative Adversial Networks (GAN), may be used to ge",DEBERTA,ai,human,0.56,False Positive
+"Recent developments in Deep Learning, such as Generative Adversial Networks (GAN), may be used to ge",ELECTRA,ai,human,0.522,False Positive
+"Recent developments in Deep Learning, such as Generative Adversial Networks (GAN), may be used to ge",DISTILBERT,ai,human,0.513,False Positive
+"Face-to-face conversations are very rich contexts, in which not only verbal meaning is conveyed but ",DEBERTA,ai,human,0.56,False Positive
+"Face-to-face conversations are very rich contexts, in which not only verbal meaning is conveyed but ",ELECTRA,ai,human,0.531,False Positive
+"To facilitate the use of cloud resources, three big challenges should be resolved at the moment to i",DEBERTA,ai,human,0.56,False Positive
+"To facilitate the use of cloud resources, three big challenges should be resolved at the moment to i",ELECTRA,ai,human,0.54,False Positive
+"To facilitate the use of cloud resources, three big challenges should be resolved at the moment to i",DISTILBERT,ai,human,0.517,False Positive
+An interesting property of such an application is that; (i) the relationship between input and outpu,DEBERTA,ai,human,0.561,False Positive
+An interesting property of such an application is that; (i) the relationship between input and outpu,ELECTRA,ai,human,0.521,False Positive
+An interesting property of such an application is that; (i) the relationship between input and outpu,DISTILBERT,ai,human,0.508,False Positive
+"Numerous techniques [1], [2], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23]",DEBERTA,ai,human,0.56,False Positive
+"Numerous techniques [1], [2], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23]",ELECTRA,ai,human,0.518,False Positive
+"Numerous techniques [1], [2], [12], [13], [14], [15], [16], [17], [18], [19], [20], [21], [22], [23]",DISTILBERT,ai,human,0.519,False Positive
+"Nevertheless, the scene geometry obtained via depth prediction is relative to the specific viewpoint",DEBERTA,ai,human,0.561,False Positive
+"Nevertheless, the scene geometry obtained via depth prediction is relative to the specific viewpoint",ELECTRA,ai,human,0.521,False Positive
+"Nevertheless, the scene geometry obtained via depth prediction is relative to the specific viewpoint",DISTILBERT,ai,human,0.521,False Positive
+"Many successful distributed representation techniques have been applied to NLP, which represents mon",DEBERTA,ai,human,0.561,False Positive
+"Many successful distributed representation techniques have been applied to NLP, which represents mon",ELECTRA,ai,human,0.522,False Positive
+"Many successful distributed representation techniques have been applied to NLP, which represents mon",DISTILBERT,ai,human,0.506,False Positive
+"In [7], the objective was to maximize the utility of the user in the case of a minimum daily energy-",BERT,ai,human,0.503,False Positive
+"In [7], the objective was to maximize the utility of the user in the case of a minimum daily energy-",DEBERTA,ai,human,0.56,False Positive
+"In [7], the objective was to maximize the utility of the user in the case of a minimum daily energy-",ELECTRA,ai,human,0.536,False Positive
+"In [7], the objective was to maximize the utility of the user in the case of a minimum daily energy-",DISTILBERT,ai,human,0.518,False Positive
+The more reliable model can be learned even with a fewer labeled training data if additional high-le,DEBERTA,ai,human,0.56,False Positive
+The more reliable model can be learned even with a fewer labeled training data if additional high-le,ELECTRA,ai,human,0.532,False Positive
+The more reliable model can be learned even with a fewer labeled training data if additional high-le,DISTILBERT,ai,human,0.521,False Positive
+"With the development of mobile computing and social network, the amount of data in the Internet has ",DEBERTA,ai,human,0.56,False Positive
+"With the development of mobile computing and social network, the amount of data in the Internet has ",ELECTRA,ai,human,0.522,False Positive
+"With the development of mobile computing and social network, the amount of data in the Internet has ",DISTILBERT,ai,human,0.506,False Positive
+Inspired by the successful application of CNNs in computer vision tasks such as person re-identifica,DEBERTA,ai,human,0.56,False Positive
+Inspired by the successful application of CNNs in computer vision tasks such as person re-identifica,ELECTRA,ai,human,0.528,False Positive
+Inspired by the successful application of CNNs in computer vision tasks such as person re-identifica,DISTILBERT,ai,human,0.513,False Positive
+"However, because the dimensions of data in real-world applications have been increasing, the convent",DEBERTA,ai,human,0.56,False Positive
+"However, because the dimensions of data in real-world applications have been increasing, the convent",ELECTRA,ai,human,0.524,False Positive
+"However, because the dimensions of data in real-world applications have been increasing, the convent",DISTILBERT,ai,human,0.51,False Positive
+"Recently, many unsupervised methods have been proposed for object instance search. Among them, most ",DEBERTA,ai,human,0.56,False Positive
+"Recently, many unsupervised methods have been proposed for object instance search. Among them, most ",ELECTRA,ai,human,0.542,False Positive
+"Recently, many unsupervised methods have been proposed for object instance search. Among them, most ",DISTILBERT,ai,human,0.514,False Positive
+Do and Vetterli [1] proposed using the Kullback–Leibler distance between generalized Gaussian densit,DEBERTA,ai,human,0.56,False Positive
+Do and Vetterli [1] proposed using the Kullback–Leibler distance between generalized Gaussian densit,ELECTRA,ai,human,0.52,False Positive
+Do and Vetterli [1] proposed using the Kullback–Leibler distance between generalized Gaussian densit,DISTILBERT,ai,human,0.507,False Positive
+"Low-rank representation (LRR), which can capture the global structure [23], has attracted great atte",DEBERTA,ai,human,0.56,False Positive
+"Low-rank representation (LRR), which can capture the global structure [23], has attracted great atte",ELECTRA,ai,human,0.539,False Positive
+"Low-rank representation (LRR), which can capture the global structure [23], has attracted great atte",DISTILBERT,ai,human,0.511,False Positive
+The main problem in computer-assisted diagnosis lies in small/fragmented medical imaging datasets fr,DEBERTA,ai,human,0.56,False Positive
+The main problem in computer-assisted diagnosis lies in small/fragmented medical imaging datasets fr,ELECTRA,ai,human,0.526,False Positive
+The main problem in computer-assisted diagnosis lies in small/fragmented medical imaging datasets fr,DISTILBERT,ai,human,0.524,False Positive
+Medical image processing have provided lots of techniques which deals to automate this task in less ,DEBERTA,ai,human,0.56,False Positive
+Medical image processing have provided lots of techniques which deals to automate this task in less ,ELECTRA,ai,human,0.524,False Positive
+Medical image processing have provided lots of techniques which deals to automate this task in less ,DISTILBERT,ai,human,0.525,False Positive
+To determine the BTR in beginning phases is of critical significance to frame an exact treatment des,DEBERTA,ai,human,0.56,False Positive
+To determine the BTR in beginning phases is of critical significance to frame an exact treatment des,ELECTRA,ai,human,0.542,False Positive
+To determine the BTR in beginning phases is of critical significance to frame an exact treatment des,DISTILBERT,ai,human,0.528,False Positive
+Brain tumor is an uncontrolled development of cancer cells in the brain. The different types of tumo,DEBERTA,ai,human,0.56,False Positive
+Brain tumor is an uncontrolled development of cancer cells in the brain. The different types of tumo,ELECTRA,ai,human,0.532,False Positive
+Brain tumor is an uncontrolled development of cancer cells in the brain. The different types of tumo,DISTILBERT,ai,human,0.514,False Positive
+"At present, MRI has exclusively utilized in the process of brain imaging [5], that is able to be ope",DEBERTA,ai,human,0.56,False Positive
+"At present, MRI has exclusively utilized in the process of brain imaging [5], that is able to be ope",ELECTRA,ai,human,0.536,False Positive
+"At present, MRI has exclusively utilized in the process of brain imaging [5], that is able to be ope",DISTILBERT,ai,human,0.518,False Positive
+Medical image segmentation refers to dividing the medical images into various regions with different,DEBERTA,ai,human,0.561,False Positive
+Medical image segmentation refers to dividing the medical images into various regions with different,ELECTRA,ai,human,0.525,False Positive
+Medical image segmentation refers to dividing the medical images into various regions with different,DISTILBERT,ai,human,0.519,False Positive
+"In recent years, some scholars have focused on image segmentation by means of image clustering, the ",DEBERTA,ai,human,0.56,False Positive
+"In recent years, some scholars have focused on image segmentation by means of image clustering, the ",ELECTRA,ai,human,0.53,False Positive
+"In recent years, some scholars have focused on image segmentation by means of image clustering, the ",DISTILBERT,ai,human,0.511,False Positive
+MRI segmentation is an important and difficult problem in medical image analysis. The segmented imag,DEBERTA,ai,human,0.561,False Positive
+MRI segmentation is an important and difficult problem in medical image analysis. The segmented imag,ELECTRA,ai,human,0.532,False Positive
+MRI segmentation is an important and difficult problem in medical image analysis. The segmented imag,DISTILBERT,ai,human,0.511,False Positive
+Today's electric power systems are very large and complex interconnected networks. It has been recog,DEBERTA,ai,human,0.561,False Positive
+Today's electric power systems are very large and complex interconnected networks. It has been recog,ELECTRA,ai,human,0.523,False Positive
+Today's electric power systems are very large and complex interconnected networks. It has been recog,DISTILBERT,ai,human,0.515,False Positive
+"Support vector machines (SVMs) [23], [4], [27] constitute the method of choice for classification pr",DEBERTA,ai,human,0.56,False Positive
+"Support vector machines (SVMs) [23], [4], [27] constitute the method of choice for classification pr",ELECTRA,ai,human,0.522,False Positive
+There are three aspects of improved methods to overcome these shortcomings: (1) improve the kernel f,DEBERTA,ai,human,0.56,False Positive
+There are three aspects of improved methods to overcome these shortcomings: (1) improve the kernel f,ELECTRA,ai,human,0.523,False Positive
+There are three aspects of improved methods to overcome these shortcomings: (1) improve the kernel f,DISTILBERT,ai,human,0.516,False Positive
+"At present, there is no unified standard for the selection of classification parameters of SVM. The ",DEBERTA,ai,human,0.56,False Positive
+"At present, there is no unified standard for the selection of classification parameters of SVM. The ",ELECTRA,ai,human,0.542,False Positive
+"At present, there is no unified standard for the selection of classification parameters of SVM. The ",DISTILBERT,ai,human,0.513,False Positive
+"The building an object detection system under this framework involves two main steps as:
+Extracting ",DEBERTA,ai,human,0.56,False Positive
+"The building an object detection system under this framework involves two main steps as:
+Extracting ",ELECTRA,ai,human,0.525,False Positive
+"The building an object detection system under this framework involves two main steps as:
+Extracting ",DISTILBERT,ai,human,0.521,False Positive
+Since Matthew Turk and Alex Pentland [1] used Principal Component Analysis (PCA) to deal the face re,DEBERTA,ai,human,0.561,False Positive
+Since Matthew Turk and Alex Pentland [1] used Principal Component Analysis (PCA) to deal the face re,ELECTRA,ai,human,0.524,False Positive
+Since Matthew Turk and Alex Pentland [1] used Principal Component Analysis (PCA) to deal the face re,DISTILBERT,ai,human,0.513,False Positive
+"In 1995, Vapnik and Cortes [6] presented the foundations for Support Vector Machine (SVM). Since the",DEBERTA,ai,human,0.56,False Positive
+"In 1995, Vapnik and Cortes [6] presented the foundations for Support Vector Machine (SVM). Since the",ELECTRA,ai,human,0.531,False Positive
+"In 1995, Vapnik and Cortes [6] presented the foundations for Support Vector Machine (SVM). Since the",DISTILBERT,ai,human,0.511,False Positive
+Deep learning consists of algorithms that try to model data autonomously through a deep architecture,DEBERTA,ai,human,0.56,False Positive
+Deep learning consists of algorithms that try to model data autonomously through a deep architecture,ELECTRA,ai,human,0.518,False Positive
+Deep learning consists of algorithms that try to model data autonomously through a deep architecture,DISTILBERT,ai,human,0.512,False Positive
+Clustering is widely used for segmentation process by supervised and unsupervised learning [1] and i,BERT,ai,human,0.512,False Positive
+Clustering is widely used for segmentation process by supervised and unsupervised learning [1] and i,DEBERTA,ai,human,0.56,False Positive
+Clustering is widely used for segmentation process by supervised and unsupervised learning [1] and i,ELECTRA,ai,human,0.528,False Positive
+Clustering is widely used for segmentation process by supervised and unsupervised learning [1] and i,DISTILBERT,ai,human,0.52,False Positive
+"Numerous approaches have been proposed in the past decade. Among all these approaches, Eigenface bas",DEBERTA,ai,human,0.56,False Positive
+"Numerous approaches have been proposed in the past decade. Among all these approaches, Eigenface bas",ELECTRA,ai,human,0.52,False Positive
+"Numerous approaches have been proposed in the past decade. Among all these approaches, Eigenface bas",DISTILBERT,ai,human,0.515,False Positive
+"Recently, there has been considerable effort made in selecting features (performing dimensionality r",BERT,ai,human,0.526,False Positive
+"Recently, there has been considerable effort made in selecting features (performing dimensionality r",DEBERTA,ai,human,0.56,False Positive
+"Recently, there has been considerable effort made in selecting features (performing dimensionality r",ELECTRA,ai,human,0.521,False Positive
+"Recently, there has been considerable effort made in selecting features (performing dimensionality r",DISTILBERT,ai,human,0.519,False Positive
+The working state of rolling bearing determines whether the equipment can be used normally. Applicat,DEBERTA,ai,human,0.56,False Positive
+The working state of rolling bearing determines whether the equipment can be used normally. Applicat,ELECTRA,ai,human,0.534,False Positive
+The working state of rolling bearing determines whether the equipment can be used normally. Applicat,DISTILBERT,ai,human,0.522,False Positive
+Hyperspectral images are now fully available. Many approaches have been defined to handle the charac,BERT,ai,human,0.502,False Positive
+Hyperspectral images are now fully available. Many approaches have been defined to handle the charac,DEBERTA,ai,human,0.56,False Positive
+Hyperspectral images are now fully available. Many approaches have been defined to handle the charac,ELECTRA,ai,human,0.52,False Positive
+Hyperspectral images are now fully available. Many approaches have been defined to handle the charac,DISTILBERT,ai,human,0.519,False Positive
+"While the development of Internet of Things technology, computer science and technology have also be",DEBERTA,ai,human,0.56,False Positive
+"While the development of Internet of Things technology, computer science and technology have also be",ELECTRA,ai,human,0.51,False Positive
+"While the development of Internet of Things technology, computer science and technology have also be",DISTILBERT,ai,human,0.521,False Positive
+"Data science, business intelligence, analytics, and other related fields in big data have become inc",DEBERTA,ai,human,0.56,False Positive
+"Data science, business intelligence, analytics, and other related fields in big data have become inc",ELECTRA,ai,human,0.53,False Positive
+"Data science, business intelligence, analytics, and other related fields in big data have become inc",DISTILBERT,ai,human,0.507,False Positive
+"One of widely discussed [2], [15] ways of increasing the efficiency of educational process in the ar",DEBERTA,ai,human,0.56,False Positive
+"One of widely discussed [2], [15] ways of increasing the efficiency of educational process in the ar",ELECTRA,ai,human,0.523,False Positive
+"One of widely discussed [2], [15] ways of increasing the efficiency of educational process in the ar",DISTILBERT,ai,human,0.526,False Positive
+Computer science students typically have a difficult time with courses in theoretical computer scien,DEBERTA,ai,human,0.56,False Positive
+Computer science students typically have a difficult time with courses in theoretical computer scien,ELECTRA,ai,human,0.522,False Positive
+Computer science students typically have a difficult time with courses in theoretical computer scien,DISTILBERT,ai,human,0.521,False Positive
+A learning methodology that has drawn increasing attention in recent years from educators and resear,DEBERTA,ai,human,0.561,False Positive
+A learning methodology that has drawn increasing attention in recent years from educators and resear,ELECTRA,ai,human,0.519,False Positive
+A learning methodology that has drawn increasing attention in recent years from educators and resear,DISTILBERT,ai,human,0.516,False Positive
+Robots are used with pleasure in education as they can be perceived as friends by students [2] . Mor,BERT,ai,human,0.523,False Positive
+Robots are used with pleasure in education as they can be perceived as friends by students [2] . Mor,DEBERTA,ai,human,0.56,False Positive
+Robots are used with pleasure in education as they can be perceived as friends by students [2] . Mor,ELECTRA,ai,human,0.534,False Positive
+Robots are used with pleasure in education as they can be perceived as friends by students [2] . Mor,DISTILBERT,ai,human,0.528,False Positive
+While concepts such as virtual reality and interactive content can provide student success improveme,DEBERTA,ai,human,0.56,False Positive
+While concepts such as virtual reality and interactive content can provide student success improveme,ELECTRA,ai,human,0.516,False Positive
+While concepts such as virtual reality and interactive content can provide student success improveme,DISTILBERT,ai,human,0.524,False Positive
+"Despite the changes afoot, there is a growing demand for graduates of data science programs and empl",DEBERTA,ai,human,0.56,False Positive
+"Despite the changes afoot, there is a growing demand for graduates of data science programs and empl",ELECTRA,ai,human,0.511,False Positive
+"Despite the changes afoot, there is a growing demand for graduates of data science programs and empl",DISTILBERT,ai,human,0.519,False Positive
+"However, many colleges and universities face a series of problems such as the overall low quality of",DEBERTA,ai,human,0.56,False Positive
+"However, many colleges and universities face a series of problems such as the overall low quality of",ELECTRA,ai,human,0.528,False Positive
+"However, many colleges and universities face a series of problems such as the overall low quality of",DISTILBERT,ai,human,0.535,False Positive
+"In 2020, China’s Internet technology presents a new high level of loading, network infrastructure co",DEBERTA,ai,human,0.56,False Positive
+"In 2020, China’s Internet technology presents a new high level of loading, network infrastructure co",ELECTRA,ai,human,0.545,False Positive
+"In 2020, China’s Internet technology presents a new high level of loading, network infrastructure co",DISTILBERT,ai,human,0.519,False Positive
+It is noticeable that the concept of smart cities is evolving into the concept of smart and connecte,DEBERTA,ai,human,0.56,False Positive
+It is noticeable that the concept of smart cities is evolving into the concept of smart and connecte,ELECTRA,ai,human,0.53,False Positive
+It is noticeable that the concept of smart cities is evolving into the concept of smart and connecte,DISTILBERT,ai,human,0.519,False Positive
+"Activity congestion on street systems is only slower speeds, expanded excursion time and expanded li",BERT,ai,human,0.522,False Positive
+"Activity congestion on street systems is only slower speeds, expanded excursion time and expanded li",DEBERTA,ai,human,0.561,False Positive
+"Activity congestion on street systems is only slower speeds, expanded excursion time and expanded li",ELECTRA,ai,human,0.517,False Positive
+"Activity congestion on street systems is only slower speeds, expanded excursion time and expanded li",DISTILBERT,ai,human,0.516,False Positive
+"Some years ago we used to talk about a very far future, a dream in where people can access to servic",DEBERTA,ai,human,0.56,False Positive
+"Some years ago we used to talk about a very far future, a dream in where people can access to servic",ELECTRA,ai,human,0.516,False Positive
+"Some years ago we used to talk about a very far future, a dream in where people can access to servic",DISTILBERT,ai,human,0.527,False Positive
+The Internet of Things (IOT) is a term commonly used to identify a system consisting of uniquely ide,BERT,ai,human,0.556,False Positive
+The Internet of Things (IOT) is a term commonly used to identify a system consisting of uniquely ide,DEBERTA,ai,human,0.56,False Positive
+The Internet of Things (IOT) is a term commonly used to identify a system consisting of uniquely ide,ELECTRA,ai,human,0.531,False Positive
+The Internet of Things (IOT) is a term commonly used to identify a system consisting of uniquely ide,DISTILBERT,ai,human,0.514,False Positive
+NOMA is superior to orthogonal multiple access (OMA) in terms of outage probability and ergodic sum-,BERT,ai,human,0.5,False Positive
+NOMA is superior to orthogonal multiple access (OMA) in terms of outage probability and ergodic sum-,DEBERTA,ai,human,0.561,False Positive
+NOMA is superior to orthogonal multiple access (OMA) in terms of outage probability and ergodic sum-,ELECTRA,ai,human,0.521,False Positive
+NOMA is superior to orthogonal multiple access (OMA) in terms of outage probability and ergodic sum-,DISTILBERT,ai,human,0.534,False Positive
+Convolutional neural networks (CNN) [1] has a great success and are utilized in many applications co,BERT,ai,human,0.502,False Positive
+Convolutional neural networks (CNN) [1] has a great success and are utilized in many applications co,DEBERTA,ai,human,0.56,False Positive
+Convolutional neural networks (CNN) [1] has a great success and are utilized in many applications co,ELECTRA,ai,human,0.531,False Positive
+Convolutional neural networks (CNN) [1] has a great success and are utilized in many applications co,DISTILBERT,ai,human,0.534,False Positive
+"With the progress of the general-purpose computing on graphics processing units (GP-GPU), the traini",DEBERTA,ai,human,0.561,False Positive
+"With the progress of the general-purpose computing on graphics processing units (GP-GPU), the traini",ELECTRA,ai,human,0.535,False Positive
+"With the progress of the general-purpose computing on graphics processing units (GP-GPU), the traini",DISTILBERT,ai,human,0.527,False Positive
+Deep learning methods allow computational models that are composed of multiple processing layers to ,DEBERTA,ai,human,0.56,False Positive
+Deep learning methods allow computational models that are composed of multiple processing layers to ,ELECTRA,ai,human,0.522,False Positive
+Deep learning methods allow computational models that are composed of multiple processing layers to ,DISTILBERT,ai,human,0.508,False Positive
+"Among those homogenous objects, flower classification plays an important role in plant pathology, me",DEBERTA,ai,human,0.56,False Positive
+"Among those homogenous objects, flower classification plays an important role in plant pathology, me",ELECTRA,ai,human,0.519,False Positive
+"Among those homogenous objects, flower classification plays an important role in plant pathology, me",DISTILBERT,ai,human,0.518,False Positive
+"In a CNN, the process of feeding the input data through a pre-trained neural network model to obtain",BERT,ai,human,0.524,False Positive
+"In a CNN, the process of feeding the input data through a pre-trained neural network model to obtain",DEBERTA,ai,human,0.56,False Positive
+"In a CNN, the process of feeding the input data through a pre-trained neural network model to obtain",ELECTRA,ai,human,0.517,False Positive
+"In a CNN, the process of feeding the input data through a pre-trained neural network model to obtain",DISTILBERT,ai,human,0.506,False Positive
+The (biologically permissible) state transitions are shown as arrows in Figure 3. Certain transition,BERT,ai,human,0.535,False Positive
+The (biologically permissible) state transitions are shown as arrows in Figure 3. Certain transition,DEBERTA,ai,human,0.561,False Positive
+The (biologically permissible) state transitions are shown as arrows in Figure 3. Certain transition,ELECTRA,ai,human,0.519,False Positive
+The (biologically permissible) state transitions are shown as arrows in Figure 3. Certain transition,DISTILBERT,ai,human,0.52,False Positive
+"When working with SNPs, plant scientists could take advantage of the investment in technology develo",DEBERTA,ai,human,0.56,False Positive
+"When working with SNPs, plant scientists could take advantage of the investment in technology develo",ELECTRA,ai,human,0.52,False Positive
+"When working with SNPs, plant scientists could take advantage of the investment in technology develo",DISTILBERT,ai,human,0.518,False Positive
+Expression microarrays are two dimensional arrays of genes used to quantify the expression of many g,BERT,ai,human,0.538,False Positive
+Expression microarrays are two dimensional arrays of genes used to quantify the expression of many g,DEBERTA,ai,human,0.561,False Positive
+Expression microarrays are two dimensional arrays of genes used to quantify the expression of many g,ELECTRA,ai,human,0.517,False Positive
+Expression microarrays are two dimensional arrays of genes used to quantify the expression of many g,DISTILBERT,ai,human,0.533,False Positive
+Research on health behavior change following genetic testing for familial conditions other than here,DEBERTA,ai,human,0.56,False Positive
+Research on health behavior change following genetic testing for familial conditions other than here,ELECTRA,ai,human,0.529,False Positive
+Research on health behavior change following genetic testing for familial conditions other than here,DISTILBERT,ai,human,0.525,False Positive
+A number of single gene mutations are enriched in the setting of advanced paternal age. The fibrobla,BERT,ai,human,0.51,False Positive
+A number of single gene mutations are enriched in the setting of advanced paternal age. The fibrobla,DEBERTA,ai,human,0.561,False Positive
+A number of single gene mutations are enriched in the setting of advanced paternal age. The fibrobla,ELECTRA,ai,human,0.531,False Positive
+A number of single gene mutations are enriched in the setting of advanced paternal age. The fibrobla,DISTILBERT,ai,human,0.528,False Positive
+Are endogenous siRNAs broadly conserved in animals? The comparative genomics of RNAi pathways and pr,BERT,ai,human,0.505,False Positive
+Are endogenous siRNAs broadly conserved in animals? The comparative genomics of RNAi pathways and pr,DEBERTA,ai,human,0.56,False Positive
+Are endogenous siRNAs broadly conserved in animals? The comparative genomics of RNAi pathways and pr,ELECTRA,ai,human,0.526,False Positive
+Are endogenous siRNAs broadly conserved in animals? The comparative genomics of RNAi pathways and pr,DISTILBERT,ai,human,0.527,False Positive
+"To date, almost all studies into the role of non-coding RNAs (ncRNAs) in cartilage biology and OA ha",BERT,ai,human,0.58,False Positive
+"To date, almost all studies into the role of non-coding RNAs (ncRNAs) in cartilage biology and OA ha",DEBERTA,ai,human,0.56,False Positive
+"To date, almost all studies into the role of non-coding RNAs (ncRNAs) in cartilage biology and OA ha",ELECTRA,ai,human,0.515,False Positive
+"To date, almost all studies into the role of non-coding RNAs (ncRNAs) in cartilage biology and OA ha",DISTILBERT,ai,human,0.527,False Positive
+Polyembryony is a process to develop embryos derived from maternal tissues in seed. It is a type of ,BERT,ai,human,0.575,False Positive
+Polyembryony is a process to develop embryos derived from maternal tissues in seed. It is a type of ,DEBERTA,ai,human,0.561,False Positive
+Polyembryony is a process to develop embryos derived from maternal tissues in seed. It is a type of ,ELECTRA,ai,human,0.547,False Positive
+Polyembryony is a process to develop embryos derived from maternal tissues in seed. It is a type of ,DISTILBERT,ai,human,0.53,False Positive
+"The genus Fagus is exceptional within the family because of its morphologically distinctive flowers,",BERT,ai,human,0.51,False Positive
+"The genus Fagus is exceptional within the family because of its morphologically distinctive flowers,",DEBERTA,ai,human,0.561,False Positive
+"The genus Fagus is exceptional within the family because of its morphologically distinctive flowers,",ELECTRA,ai,human,0.521,False Positive
+"The genus Fagus is exceptional within the family because of its morphologically distinctive flowers,",DISTILBERT,ai,human,0.523,False Positive
+Duncan’s multiple range test (DMRT) was used to determine the significant difference among two genet,DEBERTA,ai,human,0.56,False Positive
+Duncan’s multiple range test (DMRT) was used to determine the significant difference among two genet,ELECTRA,ai,human,0.533,False Positive
+Duncan’s multiple range test (DMRT) was used to determine the significant difference among two genet,DISTILBERT,ai,human,0.533,False Positive
+The phylogenetic analysis showed that AtHsf-04(HsfA2 type) and AtHsf-08 (HsfC1 type) were not groupe,BERT,ai,human,0.529,False Positive
+The phylogenetic analysis showed that AtHsf-04(HsfA2 type) and AtHsf-08 (HsfC1 type) were not groupe,DEBERTA,ai,human,0.56,False Positive
+The phylogenetic analysis showed that AtHsf-04(HsfA2 type) and AtHsf-08 (HsfC1 type) were not groupe,ELECTRA,ai,human,0.525,False Positive
+The phylogenetic analysis showed that AtHsf-04(HsfA2 type) and AtHsf-08 (HsfC1 type) were not groupe,DISTILBERT,ai,human,0.539,False Positive
+The comparison of the wild-type transcriptome to that of the degU32(Hy) mutant in the exponential gr,BERT,ai,human,0.517,False Positive
+The comparison of the wild-type transcriptome to that of the degU32(Hy) mutant in the exponential gr,DEBERTA,ai,human,0.561,False Positive
+The comparison of the wild-type transcriptome to that of the degU32(Hy) mutant in the exponential gr,ELECTRA,ai,human,0.531,False Positive
+The comparison of the wild-type transcriptome to that of the degU32(Hy) mutant in the exponential gr,DISTILBERT,ai,human,0.539,False Positive
+"To define the dynamics of the B10 genome in terms of polymorphisms, we generated unique SNV, SV, and",BERT,ai,human,0.522,False Positive
+"To define the dynamics of the B10 genome in terms of polymorphisms, we generated unique SNV, SV, and",DEBERTA,ai,human,0.56,False Positive
+"To define the dynamics of the B10 genome in terms of polymorphisms, we generated unique SNV, SV, and",ELECTRA,ai,human,0.521,False Positive
+"To define the dynamics of the B10 genome in terms of polymorphisms, we generated unique SNV, SV, and",DISTILBERT,ai,human,0.544,False Positive
+Genomic DNAs were isolated from young leaves harvested from greenhouse grown plants of an elite oils,BERT,ai,human,0.503,False Positive
+Genomic DNAs were isolated from young leaves harvested from greenhouse grown plants of an elite oils,DEBERTA,ai,human,0.561,False Positive
+Genomic DNAs were isolated from young leaves harvested from greenhouse grown plants of an elite oils,ELECTRA,ai,human,0.518,False Positive
+Genomic DNAs were isolated from young leaves harvested from greenhouse grown plants of an elite oils,DISTILBERT,ai,human,0.546,False Positive
+"Building on the assumption of chestnut–peach homology, markers spanning the three blight resistance ",BERT,ai,human,0.52,False Positive
+"Building on the assumption of chestnut–peach homology, markers spanning the three blight resistance ",DEBERTA,ai,human,0.561,False Positive
+"Building on the assumption of chestnut–peach homology, markers spanning the three blight resistance ",ELECTRA,ai,human,0.518,False Positive
+"Building on the assumption of chestnut–peach homology, markers spanning the three blight resistance ",DISTILBERT,ai,human,0.547,False Positive
+"As a representative of the multigene family, the GST enzyme family is quite complex (EC 2.5.1.18). I",BERT,ai,human,0.507,False Positive
+"As a representative of the multigene family, the GST enzyme family is quite complex (EC 2.5.1.18). I",DEBERTA,ai,human,0.561,False Positive
+"As a representative of the multigene family, the GST enzyme family is quite complex (EC 2.5.1.18). I",ELECTRA,ai,human,0.517,False Positive
+"As a representative of the multigene family, the GST enzyme family is quite complex (EC 2.5.1.18). I",DISTILBERT,ai,human,0.531,False Positive
+Data were evaluated for numbers of read counts for each gene in the samples. A threshold of at least,BERT,ai,human,0.541,False Positive
+Data were evaluated for numbers of read counts for each gene in the samples. A threshold of at least,DEBERTA,ai,human,0.561,False Positive
+Data were evaluated for numbers of read counts for each gene in the samples. A threshold of at least,ELECTRA,ai,human,0.52,False Positive
+Data were evaluated for numbers of read counts for each gene in the samples. A threshold of at least,DISTILBERT,ai,human,0.545,False Positive
+"Genetic distances between populations were evaluated using the RST statistic, and visualized through",BERT,ai,human,0.524,False Positive
+"Genetic distances between populations were evaluated using the RST statistic, and visualized through",DEBERTA,ai,human,0.56,False Positive
+"Genetic distances between populations were evaluated using the RST statistic, and visualized through",ELECTRA,ai,human,0.512,False Positive
+"Genetic distances between populations were evaluated using the RST statistic, and visualized through",DISTILBERT,ai,human,0.528,False Positive
+Overexpression of the hexokinases resulted in the partial inability of the cells to divide or even c,BERT,ai,human,0.508,False Positive
+Overexpression of the hexokinases resulted in the partial inability of the cells to divide or even c,DEBERTA,ai,human,0.561,False Positive
+Overexpression of the hexokinases resulted in the partial inability of the cells to divide or even c,ELECTRA,ai,human,0.528,False Positive
+Overexpression of the hexokinases resulted in the partial inability of the cells to divide or even c,DISTILBERT,ai,human,0.533,False Positive
+Pre-harvest sprouting (PHS) of rice (Oryza sativa L.) is a serious economic issue causing significan,DEBERTA,ai,human,0.561,False Positive
+Pre-harvest sprouting (PHS) of rice (Oryza sativa L.) is a serious economic issue causing significan,ELECTRA,ai,human,0.523,False Positive
+Pre-harvest sprouting (PHS) of rice (Oryza sativa L.) is a serious economic issue causing significan,DISTILBERT,ai,human,0.515,False Positive
+Differentiating a dominant from a recessive effect for a variant influencing a quantitative trait is,DEBERTA,ai,human,0.561,False Positive
+Differentiating a dominant from a recessive effect for a variant influencing a quantitative trait is,ELECTRA,ai,human,0.529,False Positive
+Differentiating a dominant from a recessive effect for a variant influencing a quantitative trait is,DISTILBERT,ai,human,0.529,False Positive
+Extensive studies have been conducted on the molecular mechanism of leaf variegation. A multitude of,BERT,ai,human,0.536,False Positive
+Extensive studies have been conducted on the molecular mechanism of leaf variegation. A multitude of,DEBERTA,ai,human,0.561,False Positive
+Extensive studies have been conducted on the molecular mechanism of leaf variegation. A multitude of,ELECTRA,ai,human,0.52,False Positive
+Extensive studies have been conducted on the molecular mechanism of leaf variegation. A multitude of,DISTILBERT,ai,human,0.525,False Positive
+Upland cotton (Gossypium hirsutum) is an important cultivated economic crop that provides the majori,BERT,ai,human,0.513,False Positive
+Upland cotton (Gossypium hirsutum) is an important cultivated economic crop that provides the majori,DEBERTA,ai,human,0.561,False Positive
+Upland cotton (Gossypium hirsutum) is an important cultivated economic crop that provides the majori,ELECTRA,ai,human,0.534,False Positive
+Upland cotton (Gossypium hirsutum) is an important cultivated economic crop that provides the majori,DISTILBERT,ai,human,0.511,False Positive
+"Using an electromobility shift assay (EMSA), we next showed that in vitro synthesized TRA-1 proteins",BERT,ai,human,0.527,False Positive
+"Using an electromobility shift assay (EMSA), we next showed that in vitro synthesized TRA-1 proteins",DEBERTA,ai,human,0.561,False Positive
+"Using an electromobility shift assay (EMSA), we next showed that in vitro synthesized TRA-1 proteins",ELECTRA,ai,human,0.529,False Positive
+"Using an electromobility shift assay (EMSA), we next showed that in vitro synthesized TRA-1 proteins",DISTILBERT,ai,human,0.541,False Positive
+"During maturation, potato tubers accumulate nearly 100% of their carbohydrate as starch and only sma",DEBERTA,ai,human,0.561,False Positive
+"During maturation, potato tubers accumulate nearly 100% of their carbohydrate as starch and only sma",ELECTRA,ai,human,0.527,False Positive
+"During maturation, potato tubers accumulate nearly 100% of their carbohydrate as starch and only sma",DISTILBERT,ai,human,0.515,False Positive
+Cotton genomic DNA was extracted from young leaves of the 135 BC1F1 plants and the two parents as de,BERT,ai,human,0.566,False Positive
+Cotton genomic DNA was extracted from young leaves of the 135 BC1F1 plants and the two parents as de,DEBERTA,ai,human,0.56,False Positive
+Cotton genomic DNA was extracted from young leaves of the 135 BC1F1 plants and the two parents as de,ELECTRA,ai,human,0.528,False Positive
+Cotton genomic DNA was extracted from young leaves of the 135 BC1F1 plants and the two parents as de,DISTILBERT,ai,human,0.526,False Positive
+"The RsLysM and Avr4 genes from R. solani and Cladosporium fulvum, respectively, were cloned in the p",BERT,ai,human,0.578,False Positive
+"The RsLysM and Avr4 genes from R. solani and Cladosporium fulvum, respectively, were cloned in the p",DEBERTA,ai,human,0.561,False Positive
+"The RsLysM and Avr4 genes from R. solani and Cladosporium fulvum, respectively, were cloned in the p",ELECTRA,ai,human,0.529,False Positive
+"The RsLysM and Avr4 genes from R. solani and Cladosporium fulvum, respectively, were cloned in the p",DISTILBERT,ai,human,0.547,False Positive
+To gain further insights into the regulatory networks and key factors controlling the CCM in E. coli,BERT,ai,human,0.503,False Positive
+To gain further insights into the regulatory networks and key factors controlling the CCM in E. coli,DEBERTA,ai,human,0.56,False Positive
+To gain further insights into the regulatory networks and key factors controlling the CCM in E. coli,ELECTRA,ai,human,0.529,False Positive
+To gain further insights into the regulatory networks and key factors controlling the CCM in E. coli,DISTILBERT,ai,human,0.535,False Positive
+The QTL cluster analysis was performed by Biomercator 4.2 software (Arcade et al. 2004). QTL were pr,DEBERTA,ai,human,0.561,False Positive
+The QTL cluster analysis was performed by Biomercator 4.2 software (Arcade et al. 2004). QTL were pr,ELECTRA,ai,human,0.527,False Positive
+The QTL cluster analysis was performed by Biomercator 4.2 software (Arcade et al. 2004). QTL were pr,DISTILBERT,ai,human,0.527,False Positive
+"In this paper, a de novo transcriptome assembly approach was used for oat embryo and endosperm trans",BERT,ai,human,0.503,False Positive
+"In this paper, a de novo transcriptome assembly approach was used for oat embryo and endosperm trans",DEBERTA,ai,human,0.56,False Positive
+"In this paper, a de novo transcriptome assembly approach was used for oat embryo and endosperm trans",ELECTRA,ai,human,0.526,False Positive
+"In this paper, a de novo transcriptome assembly approach was used for oat embryo and endosperm trans",DISTILBERT,ai,human,0.538,False Positive
+Improvements in crop yields are urgently needed in economically important cultivated species of the ,BERT,ai,human,0.502,False Positive
+Improvements in crop yields are urgently needed in economically important cultivated species of the ,DEBERTA,ai,human,0.56,False Positive
+Improvements in crop yields are urgently needed in economically important cultivated species of the ,ELECTRA,ai,human,0.522,False Positive
+Improvements in crop yields are urgently needed in economically important cultivated species of the ,DISTILBERT,ai,human,0.517,False Positive
+Healthy well-fed flies were frozen at – 80 °C for 10 min and subsequently homogenized in 100 mM Tris,BERT,ai,human,0.535,False Positive
+Healthy well-fed flies were frozen at – 80 °C for 10 min and subsequently homogenized in 100 mM Tris,DEBERTA,ai,human,0.56,False Positive
+Healthy well-fed flies were frozen at – 80 °C for 10 min and subsequently homogenized in 100 mM Tris,ELECTRA,ai,human,0.533,False Positive
+Healthy well-fed flies were frozen at – 80 °C for 10 min and subsequently homogenized in 100 mM Tris,DISTILBERT,ai,human,0.536,False Positive
+"Due to the concentrated nature of net pen reared Atlantic salmon, infestations of sea lice can multi",BERT,ai,human,0.532,False Positive
+"Due to the concentrated nature of net pen reared Atlantic salmon, infestations of sea lice can multi",DEBERTA,ai,human,0.561,False Positive
+"Due to the concentrated nature of net pen reared Atlantic salmon, infestations of sea lice can multi",ELECTRA,ai,human,0.522,False Positive
+"Due to the concentrated nature of net pen reared Atlantic salmon, infestations of sea lice can multi",DISTILBERT,ai,human,0.52,False Positive
+"At all generations, the bht-A1 CAPS marker was used as a diagnostic marker for the selection of the ",BERT,ai,human,0.526,False Positive
+"At all generations, the bht-A1 CAPS marker was used as a diagnostic marker for the selection of the ",DEBERTA,ai,human,0.561,False Positive
+"At all generations, the bht-A1 CAPS marker was used as a diagnostic marker for the selection of the ",ELECTRA,ai,human,0.519,False Positive
+"At all generations, the bht-A1 CAPS marker was used as a diagnostic marker for the selection of the ",DISTILBERT,ai,human,0.535,False Positive
+The initial aim of the present study was to study the feasibility of artificially combining biosynth,BERT,ai,human,0.519,False Positive
+The initial aim of the present study was to study the feasibility of artificially combining biosynth,DEBERTA,ai,human,0.56,False Positive
+The initial aim of the present study was to study the feasibility of artificially combining biosynth,ELECTRA,ai,human,0.518,False Positive
+The initial aim of the present study was to study the feasibility of artificially combining biosynth,DISTILBERT,ai,human,0.551,False Positive
+"Consistent with the other V. cholerae genomes analysed in this study, the CHN108B genome contained r",BERT,ai,human,0.502,False Positive
+"Consistent with the other V. cholerae genomes analysed in this study, the CHN108B genome contained r",DEBERTA,ai,human,0.561,False Positive
+"Consistent with the other V. cholerae genomes analysed in this study, the CHN108B genome contained r",ELECTRA,ai,human,0.522,False Positive
+"Consistent with the other V. cholerae genomes analysed in this study, the CHN108B genome contained r",DISTILBERT,ai,human,0.54,False Positive
