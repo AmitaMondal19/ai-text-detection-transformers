@@ -180,7 +180,7 @@ AI GENERATED VS HUMAN WRITTEN/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/ai-text-detection-transformers.git
+git clone https://github.com/AmitaMondal19/ai-text-detection-transformers.git
 ```
 
 2. Open notebooks in:
